@@ -28,7 +28,7 @@ for i in IDs:
 
     text += out + "\n\n"
 
-with open("endnote.txt","w",encoding="utf-8") as f:
+with open("endnote.enw","w",encoding="utf-8") as f:
     f.write(text)
 
 print("Total time:", time.time() - start, "seconds.")
