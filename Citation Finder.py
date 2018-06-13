@@ -23,5 +23,5 @@ for i in IDs:
 
     text += out + "\n\n"
 
-with open("endnote mini.enw","w",encoding="utf-8") as f:
+with open("endnote.enw","w",encoding="utf-8") as f:
     f.write(text)
