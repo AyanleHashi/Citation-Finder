@@ -18,7 +18,8 @@ for title in titles:
     out = process.communicate()[0].decode("utf-8").replace(r"\r","")[2:-7]
     out = decode(out,"unicode_escape")
     
-    text += out + "\n\n"
+    if "Journal Article" in out or "Conference Proceedings" in out:
+        text += out + "\n\n"
 
-with open("endnote mini.enw","w",encoding="utf-8") as f:
+with open("endnote.enw","w",encoding="utf-8") as f:
     f.write(ftfy.fix_text(text))
