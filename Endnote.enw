@@ -1,0 +1,4111 @@
+%0 Journal Article
+%T Radiomics: images are more than pictures, they are data
+%A Gillies, Robert J
+%A Kinahan, Paul E
+%A Hricak, Hedvig
+%J Radiology
+%V 278
+%N 2
+%P 563-577
+%@ 0033-8419
+%D 2015
+%I Radiological Society of North America
+
+%0 Journal Article
+%T The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge
+%A Tomczak, Katarzyna
+%A Czerwińska, Patrycja
+%A Wiznerowicz, Maciej
+%J Contemporary oncology
+%V 19
+%N 1A
+%P A68
+%D 2015
+%I Termedia Publishing
+
+%0 Journal Article
+%T MR imaging radiomics signatures for predicting the risk of breast cancer recurrence as given by research versions of MammaPrint, Oncotype DX, and PAM50 gene assays
+%A Li, Hui
+%A Zhu, Yitan
+%A Burnside, Elizabeth S
+%A Drukker, Karen
+%A Hoadley, Katherine A
+%A Fan, Cheng
+%A Conzen, Suzanne D
+%A Whitman, Gary J
+%A Sutton, Elizabeth J
+%A Net, Jose M
+%J Radiology
+%V 281
+%N 2
+%P 382-391
+%@ 0033-8419
+%D 2016
+%I Radiological Society of North America
+
+%0 Journal Article
+%T Local wavelet pattern: A new feature descriptor for image retrieval in medical CT databases
+%A Dubey, Shiv Ram
+%A Singh, Satish Kumar
+%A Singh, Rajat Kumar
+%J IEEE Transactions on Image Processing
+%V 24
+%N 12
+%P 5892-5903
+%@ 1057-7149
+%D 2015
+%I IEEE
+
+%0 Journal Article
+%T Deciphering genomic underpinnings of quantitative MRI-based radiomic phenotypes of invasive breast carcinoma
+%A Zhu, Yitan
+%A Li, Hui
+%A Guo, Wentian
+%A Drukker, Karen
+%A Lan, Li
+%A Giger, Maryellen L
+%A Ji, Yuan
+%J Scientific reports
+%V 5
+%P 17787
+%@ 2045-2322
+%D 2015
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Somatic mutations associated with MRI-derived volumetric features in glioblastoma
+%A Gutman, David A
+%A Dunn, William D
+%A Grossmann, Patrick
+%A Cooper, Lee AD
+%A Holder, Chad A
+%A Ligon, Keith L
+%A Alexander, Brian M
+%A Aerts, Hugo JWL
+%J Neuroradiology
+%V 57
+%N 12
+%P 1227-1237
+%@ 0028-3940
+%D 2015
+%I Springer
+
+%0 Journal Article
+%T Multicenter imaging outcomes study of The Cancer Genome Atlas glioblastoma patient cohort: imaging predictors of overall and progression-free survival
+%A Wangaryattawanich, Pattana
+%A Hatami, Masumeh
+%A Wang, Jixin
+%A Thomas, Ginu
+%A Flanders, Adam
+%A Kirby, Justin
+%A Wintermark, Max
+%A Huang, Erich S
+%A Bakhtiari, Ali Shojaee
+%A Luedi, Markus M
+%J Neuro-oncology
+%V 17
+%N 11
+%P 1525-1537
+%@ 1523-5866
+%D 2015
+%I Oxford University Press
+
+%0 Journal Article
+%T Prognostic imaging biomarkers in glioblastoma: development and independent validation on the basis of multiregion and quantitative analysis of MR images
+%A Cui, Yi
+%A Tha, Khin Khin
+%A Terasaka, Shunsuke
+%A Yamaguchi, Shigeru
+%A Wang, Jeff
+%A Kudo, Kohsuke
+%A Xing, Lei
+%A Shirato, Hiroki
+%A Li, Ruijiang
+%J Radiology
+%V 278
+%N 2
+%P 546-553
+%@ 0033-8419
+%D 2015
+%I Radiological Society of North America
+
+%0 Journal Article
+%T Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data
+%A Guo, Wentian
+%A Li, Hui
+%A Zhu, Yitan
+%A Lan, Li
+%A Yang, Shengjie
+%A Drukker, Karen
+%A Morris, Elizabeth A
+%A Burnside, Elizabeth S
+%A Whitman, Gary J
+%A Giger, Maryellen L
+%J Journal of Medical Imaging
+%V 2
+%N 4
+%P 041007
+%@ 2329-4302
+%D 2015
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Fully automatic GBM segmentation in the TCGA-GBM dataset: Prognosis and correlation with VASARI features
+%A Velazquez, Emmanuel Rios
+%A Meier, Raphael
+%A Dunn Jr, William D
+%A Alexander, Brian
+%A Wiest, Roland
+%A Bauer, Stefan
+%A Gutman, David A
+%A Reyes, Mauricio
+%A Aerts, Hugo JWL
+%J Scientific reports
+%V 5
+%P 16822
+%@ 2045-2322
+%D 2015
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Quantitative MRI radiomics in the prediction of molecular classifications of breast cancer subtypes in the TCGA/TCIA data set
+%A Li, Hui
+%A Zhu, Yitan
+%A Burnside, Elizabeth S
+%A Huang, Erich
+%A Drukker, Karen
+%A Hoadley, Katherine A
+%A Fan, Cheng
+%A Conzen, Suzanne D
+%A Zuley, Margarita
+%A Net, Jose M
+%J NPJ breast cancer
+%V 2
+%P 16012
+%@ 2374-4677
+%D 2016
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Genomics of brain tumor imaging
+%A Pope, Whitney B
+%J Neuroimaging Clinics
+%V 25
+%N 1
+%P 105-119
+%@ 1052-5149
+%D 2015
+%I Elsevier
+
+%0 Journal Article
+%T Quantitative imaging network: data sharing and competitive AlgorithmValidation leveraging the cancer imaging archive
+%A Kalpathy-Cramer, Jayashree
+%A Freymann, John Blake
+%A Kirby, Justin Stephen
+%A Kinahan, Paul Eugene
+%A Prior, Fred William
+%J Translational oncology
+%V 7
+%N 1
+%P 147-152
+%@ 1936-5233
+%D 2014
+%I Elsevier
+
+%0 Journal Article
+%T Spatiotemporal genomic architecture informs precision oncology in glioblastoma
+%A Lee, Jin-Ku
+%A Wang, Jiguang
+%A Sa, Jason K
+%A Ladewig, Erik
+%A Lee, Hae-Ock
+%A Lee, In-Hee
+%A Kang, Hyun Ju
+%A Rosenbloom, Daniel S
+%A Camara, Pablo G
+%A Liu, Zhaoqi
+%J Nature genetics
+%V 49
+%N 4
+%P 594
+%@ 1546-1718
+%D 2017
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features
+%A Bakas, Spyridon
+%A Akbari, Hamed
+%A Sotiras, Aristeidis
+%A Bilello, Michel
+%A Rozycki, Martin
+%A Kirby, Justin S
+%A Freymann, John B
+%A Farahani, Keyvan
+%A Davatzikos, Christos
+%J Scientific data
+%V 4
+%P 170117
+%@ 2052-4463
+%D 2017
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Special Section Guest Editorial: LUNGx Challenge for computerized lung nodule classification: reflections and lessons learned
+%A Armato, Samuel G
+%A Hadjiiski, Lubomir M
+%A Tourassi, Georgia D
+%A Drukker, Karen
+%A Giger, Maryellen L
+%A Li, Feng
+%A Redmond, George
+%A Farahani, Keyvan
+%A Kirby, Justin S
+%A Clarke, Laurence P
+%J Journal of Medical Imaging
+%V 2
+%N 2
+%P 020103
+%@ 2329-4302
+%D 2015
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Unravelling tumour heterogeneity using next-generation imaging: radiomics, radiogenomics, and habitat imaging
+%A Sala, E
+%A Mema, E
+%A Himoto, Y
+%A Veeraraghavan, H
+%A Brenton, JD
+%A Snyder, A
+%A Weigelt, B
+%A Vargas, HA
+%J Clinical radiology
+%V 72
+%N 1
+%P 3-10
+%@ 0009-9260
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T The path from big data to precision medicine
+%A Huang, Bevan E
+%A Mulyasasmita, Widya
+%A Rajagopal, Gunaretnam
+%J Expert Review of Precision Medicine and Drug Development
+%V 1
+%N 2
+%P 129-143
+%@ 2380-8993
+%D 2016
+%I Taylor & Francis
+
+%0 Journal Article
+%T Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge
+%A Setio, Arnaud Arindra Adiyoso
+%A Traverso, Alberto
+%A De Bel, Thomas
+%A Berens, Moira SN
+%A van den Bogaard, Cas
+%A Cerello, Piergiorgio
+%A Chen, Hao
+%A Dou, Qi
+%A Fantacci, Maria Evelina
+%A Geurts, Bram
+%J Medical image analysis
+%V 42
+%P 1-13
+%@ 1361-8415
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T How will big data improve clinical and basic research in radiation therapy?
+%A Rosenstein, Barry S
+%A Capala, Jacek
+%A Efstathiou, Jason A
+%A Hammerbacher, Jeff
+%A Kerns, Sarah L
+%A Ostrer, Harry
+%A Prior, Fred W
+%A Vikram, Bhadrasain
+%A Wong, John
+%A Xiao, Ying
+%J International Journal of Radiation Oncology• Biology• Physics
+%V 95
+%N 3
+%P 895-904
+%@ 0360-3016
+%D 2016
+%I Elsevier
+
+%0 Journal Article
+%T Medical image retrieval using vector quantization and fuzzy S-tree
+%A Nowaková, Jana
+%A Prílepok, Michal
+%A Snášel, Václav
+%J Journal of medical systems
+%V 41
+%N 2
+%P 18
+%@ 0148-5598
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Radiomic features from the peritumoral brain parenchyma on treatment-naive multi-parametric MR imaging predict long versus short-term survival in glioblastoma multiforme: preliminary findings
+%A Prasanna, Prateek
+%A Patel, Jay
+%A Partovi, Sasan
+%A Madabhushi, Anant
+%A Tiwari, Pallavi
+%J European radiology
+%V 27
+%N 10
+%P 4188-4197
+%@ 0938-7994
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T MRI features predict survival and molecular markers in diffuse lower-grade gliomas
+%A Zhou, Hao
+%A Vallières, Martin
+%A Bai, Harrison X
+%A Su, Chang
+%A Tang, Haiyun
+%A Oldridge, Derek
+%A Zhang, Zishu
+%A Xiao, Bo
+%A Liao, Weihua
+%A Tao, Yongguang
+%J Neuro-oncology
+%V 19
+%N 6
+%P 862-870
+%@ 1522-8517
+%D 2017
+%I Oxford University Press US
+
+%0 Journal Article
+%T Promises and challenges for the implementation of computational medical imaging (radiomics) in oncology
+%A Limkin, EJ
+%A Sun, Roger
+%A Dercle, Laurent
+%A Zacharaki, EI
+%A Robert, Charlotte
+%A Reuzé, Sylvain
+%A Schernberg, Antoine
+%A Paragios, Nikos
+%A Deutsch, Eric
+%A Ferté, Charles
+%J Annals of Oncology
+%V 28
+%N 6
+%P 1191-1206
+%@ 0923-7534
+%D 2017
+%I Oxford University Press
+
+%0 Journal Article
+%T Extended modality propagation: image synthesis of pathological cases
+%A Cordier, Nicolas
+%A Delingette, Hervé
+%A Lê, Matthieu
+%A Ayache, Nicholas
+%J IEEE transactions on medical imaging
+%V 35
+%N 12
+%P 2598-2608
+%@ 0278-0062
+%D 2016
+%I IEEE
+
+%0 Conference Proceedings
+%T Lung nodule detection in CT images using deep convolutional neural networks
+%A Golan, Rotem
+%A Jacob, Christian
+%A Denzinger, Jörg
+%B Neural Networks (IJCNN), 2016 International Joint Conference on
+%P 243-250
+%@ 1509006206
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T Artificial intelligence and machine learning in radiology: opportunities, challenges, pitfalls, and criteria for success
+%A Thrall, James H
+%A Li, Xiang
+%A Li, Quanzheng
+%A Cruz, Cinthia
+%A Do, Synho
+%A Dreyer, Keith
+%A Brink, James
+%J Journal of the American College of Radiology
+%V 15
+%N 3
+%P 504-508
+%@ 1546-1440
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Residual convolutional neural network for the determination of IDH status in low-and high-grade gliomas from MR imaging
+%A Chang, Ken
+%A Bai, Harrison X
+%A Zhou, Hao
+%A Su, Chang
+%A Bi, Wenya Linda
+%A Agbodza, Ena
+%A Kavouridis, Vasileios K
+%A Senders, Joeky T
+%A Boaro, Alessandro
+%A Beers, Andrew
+%J Clinical Cancer Research
+%V 24
+%N 5
+%P 1073-1081
+%@ 1078-0432
+%D 2018
+%I AACR
+
+%0 Journal Article
+%T Impending challenges for the use of Big Data
+%A Huser, Vojtech
+%A Cimino, James J
+%J International Journal of Radiation Oncology• Biology• Physics
+%V 95
+%N 3
+%P 890-894
+%@ 0360-3016
+%D 2016
+%I Elsevier
+
+%0 Conference Proceedings
+%T Integrating open data on cancer in support to tumor growth analysis
+%A Jeanquartier, Fleur
+%A Jean-Quartier, Claire
+%A Schreck, Tobias
+%A Cemernek, David
+%A Holzinger, Andreas
+%B International Conference on Information Technology in Bio-and Medical Informatics
+%P 49-66
+%D 2016
+%I Springer
+
+%0 Journal Article
+%T G-DOC Plus–an integrative bioinformatics platform for precision medicine
+%A Bhuvaneshwar, Krithika
+%A Belouali, Anas
+%A Singh, Varun
+%A Johnson, Robert M
+%A Song, Lei
+%A Alaoui, Adil
+%A Harris, Michael A
+%A Clarke, Robert
+%A Weiner, Louis M
+%A Gusev, Yuriy
+%J BMC bioinformatics
+%V 17
+%N 1
+%P 193
+%@ 1471-2105
+%D 2016
+%I BioMed Central
+
+%0 Journal Article
+%T DICOM for quantitative imaging biomarker development: a standards based approach to sharing clinical data and structured PET/CT analysis results in head and neck cancer research
+%A Fedorov, Andriy
+%A Clunie, David
+%A Ulrich, Ethan
+%A Bauer, Christian
+%A Wahle, Andreas
+%A Brown, Bartley
+%A Onken, Michael
+%A Riesmeier, Jörg
+%A Pieper, Steve
+%A Kikinis, Ron
+%J PeerJ
+%V 4
+%P e2057
+%@ 2167-8359
+%D 2016
+%I PeerJ Inc.
+
+%0 Journal Article
+%T A novel end-to-end classifier using domain transferred deep convolutional neural networks for biomedical images
+%A Pang, Shuchao
+%A Yu, Zhezhou
+%A Orgun, Mehmet A
+%J Computer methods and programs in biomedicine
+%V 140
+%P 283-293
+%@ 0169-2607
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T –Omic and Electronic Health Record Big Data Analytics for Precision Medicine
+%A Wu, Po-Yen
+%A Cheng, Chih-Wen
+%A Kaddi, Chanchala D
+%A Venugopalan, Janani
+%A Hoffman, Ryan
+%A Wang, May D
+%J IEEE Transactions on Biomedical Engineering
+%V 64
+%N 2
+%P 263-273
+%@ 0018-9294
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Cloud-based NoSQL open database of pulmonary nodules for computer-aided lung cancer diagnosis and reproducible research
+%A Junior, José Raniery Ferreira
+%A Oliveira, Marcelo Costa
+%A de Azevedo-Marques, Paulo Mazzoncini
+%J Journal of digital imaging
+%V 29
+%N 6
+%P 716-729
+%@ 0897-1889
+%D 2016
+%I Springer
+
+%0 Journal Article
+%T Biomechanical model for computing deformations for whole‐body image registration: A meshless approach
+%A Li, Mao
+%A Miller, Karol
+%A Joldes, Grand Roman
+%A Kikinis, Ron
+%A Wittek, Adam
+%J International journal for numerical methods in biomedical engineering
+%V 32
+%N 12
+%@ 2040-7947
+%D 2016
+%I Wiley Online Library
+
+%0 Journal Article
+%T Overview of the American Society for Radiation Oncology–National Institutes of Health–American Association of Physicists in Medicine Workshop 2015: exploring opportunities for radiation oncology in the era of big data
+%A Benedict, Stanley H
+%A Hoffman, Karen
+%A Martel, Mary K
+%A Abernethy, Amy P
+%A Asher, Anthony L
+%A Capala, Jacek
+%A Chen, Ronald C
+%A Chera, Bhisham
+%A Couch, Jennifer
+%A Deye, James
+%J International Journal of Radiation Oncology• Biology• Physics
+%V 95
+%N 3
+%P 873-879
+%@ 0360-3016
+%D 2016
+%I Elsevier
+
+%0 Journal Article
+%T Magnetic resonance perfusion image features uncover an angiogenic subgroup of glioblastoma patients with poor survival and better response to antiangiogenic treatment
+%A Liu, Tiffany T
+%A Achrol, Achal S
+%A Mitchell, Lex A
+%A Rodriguez, Scott A
+%A Feroze, Abdullah
+%A Iv, Michael
+%A Kim, Christine
+%A Chaudhary, Navjot
+%A Gevaert, Olivier
+%A Stuart, Josh M
+%J Neuro-oncology
+%V 19
+%N 7
+%P 997-1007
+%@ 1522-8517
+%D 2016
+%I Oxford University Press US
+
+%0 Journal Article
+%T High-resolution anatomic correlation of cyclic motor patterns in the human colon: Evidence of a rectosigmoid brake
+%A Lin, Anthony Y
+%A Du, Peng
+%A Dinning, Philip G
+%A Arkwright, John W
+%A Kamp, Jozef P
+%A Cheng, Leo K
+%A Bissett, Ian P
+%A O'Grady, Gregory
+%J American Journal of Physiology-Gastrointestinal and Liver Physiology
+%V 312
+%N 5
+%P G508-G515
+%@ 0193-1857
+%D 2017
+%I American Physiological Society Bethesda, MD
+
+%0 Journal Article
+%T Special section guest editorial: radiomics and imaging genomics: quantitative imaging for precision medicine
+%A Napel, Sandy
+%A Giger, Maryellen L
+%J Journal of Medical Imaging
+%V 2
+%N 4
+%P 041001
+%@ 2329-4302
+%D 2015
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Topological summaries of tumor images improve prediction of disease free survival in glioblastoma multiforme
+%A Crawford, Lorin
+%A Monod, Anthea
+%A Chen, Andrew X
+%A Mukherjee, Sayan
+%A Rabadán, Raúl
+%J arXiv preprint arXiv:1611.06818
+%D 2016
+
+%0 Journal Article
+%T De-identification of medical images with retention of scientific research value
+%A Moore, Stephen M
+%A Maffitt, David R
+%A Smith, Kirk E
+%A Kirby, Justin S
+%A Clark, Kenneth W
+%A Freymann, John B
+%A Vendt, Bruce A
+%A Tarbox, Lawrence R
+%A Prior, Fred W
+%J RadioGraphics
+%V 35
+%N 3
+%P 727-735
+%@ 0271-5333
+%D 2015
+%I Radiological Society of North America
+
+%0 Journal Article
+%T Automatic feature learning using multichannel ROI based on deep structured algorithms for computerized lung cancer diagnosis
+%A Sun, Wenqing
+%A Zheng, Bin
+%A Qian, Wei
+%J Computers in biology and medicine
+%V 89
+%P 530-539
+%@ 0010-4825
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T LUNGx challenge for computerized lung nodule classification
+%A Armato, Samuel G
+%A Drukker, Karen
+%A Li, Feng
+%A Hadjiiski, Lubomir
+%A Tourassi, Georgia D
+%A Kirby, Justin S
+%A Clarke, Laurence P
+%A Engelmann, Roger M
+%A Giger, Maryellen L
+%A Redmond, George
+%J Journal of Medical Imaging
+%V 3
+%N 4
+%P 044506
+%@ 2329-4302
+%D 2016
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Medical image retrieval via histogram of compressed scattering coefficients
+%A Lan, Rushi
+%A Zhou, Yicong
+%J IEEE journal of biomedical and health informatics
+%V 21
+%N 5
+%P 1338-1346
+%@ 2168-2194
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Exploring cancer genomic data from the cancer genome atlas project
+%A Lee, Ju-Seog
+%J BMB reports
+%V 49
+%N 11
+%P 607
+%D 2016
+%I Korean Society for Biochemistry and Molecular Biology
+
+%0 Journal Article
+%T Creation and curation of the society of imaging informatics in Medicine Hackathon Dataset
+%A Kohli, Marc
+%A Morrison, James J
+%A Wawira, Judy
+%A Morgan, Matthew B
+%A Hostetter, Jason
+%A Genereaux, Brad
+%A Hussain, Mohannad
+%A Langer, Steve G
+%J Journal of digital imaging
+%V 31
+%N 1
+%P 9-12
+%@ 0897-1889
+%D 2018
+%I Springer
+
+%0 Conference Proceedings
+%T Building blocks of mayan: Componentizing the escience workflows through software-defined service composition
+%A Kathiravelu, Pradeeban
+%A Grbac, Tihana Galinac
+%A Veiga, Luís
+%B Web Services (ICWS), 2016 IEEE International Conference on
+%P 372-379
+%@ 1509026754
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T A query tool for investigator access to the data and images of the national lung screening trial
+%A Commean, Paul K
+%A Rathmell, Joshua M
+%A Clark, Ken W
+%A Maffitt, Dave R
+%A Prior, Fred W
+%J Journal of digital imaging
+%V 28
+%N 4
+%P 439-447
+%@ 0897-1889
+%D 2015
+%I Springer
+
+%0 Journal Article
+%T Recurrent convolutional networks for pulmonary nodule detection in CT imaging
+%A Ypsilantis, Petros-Pavlos
+%A Montana, Giovanni
+%J arXiv preprint arXiv:1609.09143
+%D 2016
+
+%0 Journal Article
+%T Computational identification of tumor anatomic location associated with survival in 2 large cohorts of human primary glioblastomas
+%A Liu, Tiffany T
+%A Achrol, Achal S
+%A Mitchell, Lex A
+%A Du, William A
+%A Loya, Joshua J
+%A Rodriguez, Scott A
+%A Feroze, Abdullah
+%A Westbroek, Erick M
+%A Yeom, Kristen W
+%A Stuart, Joshua M
+%J American Journal of Neuroradiology
+%V 37
+%N 4
+%P 621-628
+%@ 0195-6108
+%D 2016
+%I Am Soc Neuroradiology
+
+%0 Journal Article
+%T MIRMAID: A content management system for medical image analysis research
+%A Korfiatis, Panagiotis D
+%A Kline, Timothy L
+%A Blezek, Daniel J
+%A Langer, Steve G
+%A Ryan, William J
+%A Erickson, Bradley J
+%J Radiographics
+%V 35
+%N 5
+%P 1461-1468
+%@ 0271-5333
+%D 2015
+%I Radiological Society of North America
+
+%0 Journal Article
+%T Preliminary Detection and Analysis of Lung Cancer on CT images using MATLAB: A Cost-effective Alternative
+%A Khan, Md Daud Hossain
+%A Ahmed, Mansur
+%A Bach, Christian
+%J Journal of Biomedical Engineering and Medical Imaging
+%V 2
+%N 6
+%P 01
+%D 2016
+
+%0 Journal Article
+%T Using deep learning for pulmonary nodule detection & diagnosis
+%A Gruetzemacher, Richard
+%A Gupta, Ashish
+%D 2016
+
+%0 Journal Article
+%T Multi‐site quality and variability analysis of 3D FDG PET segmentations based on phantom and clinical image data
+%A Beichel, Reinhard R
+%A Smith, Brian J
+%A Bauer, Christian
+%A Ulrich, Ethan J
+%A Ahmadvand, Payam
+%A Budzevich, Mikalai M
+%A Gillies, Robert J
+%A Goldgof, Dmitry
+%A Grkovski, Milan
+%A Hamarneh, Ghassan
+%J Medical physics
+%V 44
+%N 2
+%P 479-496
+%@ 2473-4209
+%D 2017
+%I Wiley Online Library
+
+%0 Journal Article
+%T Multisite image data collection and management using the RSNA image sharing network
+%A Erickson, Bradley J
+%A Fajnwaks, Patricio
+%A Langer, Steve G
+%A Perry, John
+%J Translational oncology
+%V 7
+%N 1
+%P 36-39
+%@ 1936-5233
+%D 2014
+%I Elsevier
+
+%0 Journal Article
+%T Medical 3D printing for vascular interventions and surgical oncology: a primer for the 2016 radiological society of North America (RSNA) hands-on course in 3D printing
+%A Chepelev, Leonid
+%A Hodgdon, Taryn
+%A Gupta, Ashish
+%A Wang, Aili
+%A Torres, Carlos
+%A Krishna, Satheesh
+%A Akyuz, Ekin
+%A Mitsouras, Dimitrios
+%A Sheikh, Adnan
+%J 3D Printing in Medicine
+%V 2
+%N 1
+%P 5
+%@ 2365-6271
+%D 2015
+%I Springer
+
+%0 Journal Article
+%T Effect of color visualization and display hardware on the visual assessment of pseudocolor medical images
+%A Zabala‐Travers, Silvina
+%A Choi, Mina
+%A Cheng, Wei‐Chung
+%A Badano, Aldo
+%J Medical physics
+%V 42
+%N 6Part1
+%P 2942-2954
+%@ 2473-4209
+%D 2015
+%I Wiley Online Library
+
+%0 Conference Proceedings
+%T A tool for lung nodules analysis based on segmentation and morphological operation
+%A Gupta, Anindya
+%A Märtens, Olev
+%A Le Moullec, Yannick
+%A Saar, Tõnis
+%B Intelligent Signal Processing (WISP), 2015 IEEE 9th International Symposium on
+%P 1-5
+%@ 1479972533
+%D 2015
+%I IEEE
+
+%0 Journal Article
+%T Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?
+%A Demerath, Theo
+%A Simon-Gabriel, Carl Philipp
+%A Kellner, Elias
+%A Schwarzwald, Ralf
+%A Lange, Thomas
+%A Heiland, Dieter Henrik
+%A Reinacher, Peter
+%A Staszewski, Ori
+%A Mast, Hansjörg
+%A Kiselev, Valerij G
+%J The neuroradiology journal
+%V 30
+%N 1
+%P 36-47
+%@ 1971-4009
+%D 2017
+%I SAGE Publications Sage UK: London, England
+
+%0 Journal Article
+%T Fast and robust brain tumor segmentation using level set method with multiple image information
+%A Lok, Ka Hei
+%A Shi, Lin
+%A Zhu, Xianlun
+%A Wang, Defeng
+%J Journal of X-ray Science and Technology
+%V 25
+%N 2
+%P 301-312
+%@ 0895-3996
+%D 2017
+%I IOS Press
+
+%0 Journal Article
+%T Image descriptors in radiology images: a systematic review
+%A Nogueira, Mariana A
+%A Abreu, Pedro Henriques
+%A Martins, Pedro
+%A Machado, Penousal
+%A Duarte, Hugo
+%A Santos, João
+%J Artificial Intelligence Review
+%V 47
+%N 4
+%P 531-559
+%@ 0269-2821
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Deep learning applications in medical image analysis
+%A Ker, Justin
+%A Wang, Lipo
+%A Rao, Jai
+%A Lim, Tchoyoson
+%J IEEE Access
+%V 6
+%P 9375-9389
+%@ 2169-3536
+%D 2018
+%I IEEE
+
+%0 Journal Article
+%T Auto diagnostics of lung nodules using minimal characteristics extraction technique
+%A Peña, Diego M
+%A Luo, Shouhua
+%A Abdelgader, Abdeldime
+%J Diagnostics
+%V 6
+%N 1
+%P 13
+%D 2016
+%I Multidisciplinary Digital Publishing Institute
+
+%0 Conference Proceedings
+%T Content dependent intra mode selection for medical image compression using HEVC
+%A Parikh, Saurin
+%A Ruiz, Damian
+%A Kalva, Hari
+%A Fernández-Escribano, Gerardo
+%B Consumer Electronics (ICCE), 2016 IEEE International Conference on
+%P 561-564
+%@ 1467383643
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T Independent external validation of predictive models for urinary dysfunction following external beam radiotherapy of the prostate: Issues in model development and reporting
+%A Yahya, Noorazrul
+%A Ebert, Martin A
+%A Bulsara, Max
+%A Kennedy, Angel
+%A Joseph, David J
+%A Denham, James W
+%J Radiotherapy and Oncology
+%V 120
+%N 2
+%P 339-345
+%@ 0167-8140
+%D 2016
+%I Elsevier
+
+%0 Journal Article
+%T 3-D Active Contour Segmentation Based on Sparse Linear Combination of Training Shapes (SCoTS)
+%A Farhangi, M Mehdi
+%A Frigui, Hichem
+%A Seow, Albert
+%A Amini, Amir A
+%J IEEE transactions on medical imaging
+%V 36
+%N 11
+%P 2239-2249
+%@ 0278-0062
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Integrative analysis of diffusion-weighted MRI and genomic data to inform treatment of glioblastoma
+%A Jajamovich, Guido H
+%A Valiathan, Chandni R
+%A Cristescu, Razvan
+%A Somayajula, Sangeetha
+%J Journal of neuro-oncology
+%V 129
+%N 2
+%P 289-300
+%@ 0167-594X
+%D 2016
+%I Springer
+
+%0 Journal Article
+%T Tumor Metabolic Features Identified by 18F-FDG PET Correlate with Gene Networks of Immune Cell Microenvironment in Head and Neck Cancer.
+%A Na, Kwon Joong
+%A Choi, Hongyoon
+%J Journal of nuclear medicine: official publication, Society of Nuclear Medicine
+%V 59
+%N 1
+%P 31-37
+%@ 0161-5505
+%D 2018
+
+%0 Conference Proceedings
+%T Decision forests for learning prostate cancer probability maps from multiparametric MRI
+%A Ehrenberg, Henry R
+%A Cornfeld, Daniel
+%A Nawaf, Cayce B
+%A Sprenkle, Preston C
+%A Duncan, James S
+%B Medical Imaging 2016: Computer-Aided Diagnosis
+%V 9785
+%P 97851J
+%D 2016
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Identification of biomarkers for pseudo and true progression of GBM based on radiogenomics study
+%A Qian, Xiaohua
+%A Tan, Hua
+%A Zhang, Jian
+%A Liu, Keqin
+%A Yang, Tielin
+%A Wang, Maode
+%A Debinskie, Waldemar
+%A Zhao, Weilin
+%A Chan, Michael D
+%A Zhou, Xiaobo
+%J Oncotarget
+%V 7
+%N 34
+%P 55377
+%D 2016
+%I Impact Journals, LLC
+
+%0 Journal Article
+%T Machine learning in medical imaging
+%A Wernick, Miles N
+%A Yang, Yongyi
+%A Brankov, Jovan G
+%A Yourganov, Grigori
+%A Strother, Stephen C
+%J IEEE signal processing magazine
+%V 27
+%N 4
+%P 25-38
+%@ 1053-5888
+%D 2010
+%I IEEE
+
+%0 Journal Article
+%T GIFT-Cloud: A data sharing and collaboration platform for medical imaging research
+%A Doel, Tom
+%A Shakir, Dzhoshkun I
+%A Pratt, Rosalind
+%A Aertsen, Michael
+%A Moggridge, James
+%A Bellon, Erwin
+%A David, Anna L
+%A Deprest, Jan
+%A Vercauteren, Tom
+%A Ourselin, Sébastien
+%J computer methods and programs in biomedicine
+%V 139
+%P 181-190
+%@ 0169-2607
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T Computer-assisted decision support system in pulmonary cancer detection and stage classification on CT images
+%A Masood, Anum
+%A Sheng, Bin
+%A Li, Ping
+%A Hou, Xuhong
+%A Wei, Xiaoer
+%A Qin, Jing
+%A Feng, Dagan
+%J Journal of biomedical informatics
+%V 79
+%P 117-128
+%@ 1532-0464
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T A generalized graph reduction framework for interactive segmentation of large images
+%A Gueziri, Houssem-Eddine
+%A McGuffin, Michael J
+%A Laporte, Catherine
+%J Computer Vision and Image Understanding
+%V 150
+%P 44-57
+%@ 1077-3142
+%D 2016
+%I Elsevier
+
+%0 Conference Proceedings
+%T Low-dose ct streak artifacts removal using deep residual neural network
+%A Li, Heyi
+%A Mueller, Klaus
+%B Proceedings of Fully 3D conference
+%P 191-194
+%D 2017
+
+%0 Journal Article
+%T Optimising delineation accuracy of tumours in PET for radiotherapy planning using blind deconvolution
+%A Guvenis, A
+%A Koc, A
+%J Radiation protection dosimetry
+%V 165
+%N 1-4
+%P 495-498
+%@ 1742-3406
+%D 2015
+%I Oxford University Press
+
+%0 Journal Article
+%T Radiomics strategies for risk assessment of tumour failure in head-and-neck cancer
+%A Vallières, Martin
+%A Kay-Rivest, Emily
+%A Perrin, Léo Jean
+%A Liem, Xavier
+%A Furstoss, Christophe
+%A Aerts, Hugo JWL
+%A Khaouam, Nader
+%A Nguyen-Tan, Phuc Felix
+%A Wang, Chang-Shu
+%A Sultanem, Khalil
+%J Scientific reports
+%V 7
+%N 1
+%P 10117
+%@ 2045-2322
+%D 2017
+%I Nature Publishing Group
+
+%0 Conference Proceedings
+%T Tumor lesion segmentation from 3d PET using a machine learning driven active surface
+%A Ahmadvand, Payam
+%A Duggan, Nóirín
+%A Bénard, François
+%A Hamarneh, Ghassan
+%B International Workshop on Machine Learning in Medical Imaging
+%P 271-278
+%D 2016
+%I Springer
+
+%0 Journal Article
+%T Optimization of photon beam energies in gold nanoparticle enhanced arc radiation therapy using Monte Carlo methods
+%A Koger, B
+%A Kirkby, C
+%J Physics in Medicine & Biology
+%V 61
+%N 24
+%P 8839
+%@ 0031-9155
+%D 2016
+%I IOP Publishing
+
+%0 Journal Article
+%T A volumetric technique for fossil body mass estimation applied to Australopithecus afarensis
+%A Brassey, Charlotte A
+%A O'Mahoney, Thomas G
+%A Chamberlain, Andrew T
+%A Sellers, William I
+%J Journal of human evolution
+%@ 0047-2484
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T Comparison of Safety Margin Generation Concepts in Image Guided Radiotherapy to Account for Daily Head and Neck Pose Variations
+%A Stoll, Markus
+%A Stoiber, Eva Maria
+%A Grimm, Sarah
+%A Debus, Jürgen
+%A Bendl, Rolf
+%A Giske, Kristina
+%J PloS one
+%V 11
+%N 12
+%P e0168916
+%@ 1932-6203
+%D 2016
+%I Public Library of Science
+
+%0 Journal Article
+%T Automatic interstitial photodynamic therapy planning via convex optimization
+%A Yassine, Abdul-Amir
+%A Kingsford, William
+%A Xu, Yiwen
+%A Cassidy, Jeffrey
+%A Lilge, Lothar
+%A Betz, Vaughn
+%J Biomedical optics express
+%V 9
+%N 2
+%P 898-920
+%@ 2156-7085
+%D 2018
+%I Optical Society of America
+
+%0 Journal Article
+%T Discrimination of Benign and Malignant Suspicious Breast Tumors Based on Semi-Quantitative DCE-MRI Parameters Employing Support Vector Machine
+%A Navaei-Lavasani, Saeedeh
+%A Fathi-Kazerooni, Anahita
+%A Saligheh-Rad, Hamidreza
+%A Gity, Masoumeh
+%J Frontiers in Biomedical Technologies
+%V 2
+%N 2
+%P 87-92
+%@ 2345-5837
+%D 2015
+
+%0 Journal Article
+%T High Bit-Depth Medical Image Compression with HEVC
+%A Parikh, Saurin S
+%A Ruiz, Damian
+%A Kalva, Hari
+%A Fernández-Escribano, Gerardo
+%A Adzic, Velibor
+%J IEEE journal of biomedical and health informatics
+%V 22
+%N 2
+%P 552-560
+%@ 2168-2194
+%D 2018
+%I IEEE
+
+%0 Journal Article
+%T End-to-End Abnormality Detection in Medical Imaging
+%A Wu, Dufan
+%A Kim, Kyungsang
+%A Dong, Bin
+%A Li, Quanzheng
+%J arXiv preprint arXiv:1711.02074
+%D 2017
+
+%0 Conference Proceedings
+%T Hybrid Mass Detection in Breast MRI Combining Unsupervised Saliency Analysis and Deep Learning
+%A Amit, Guy
+%A Hadad, Omer
+%A Alpert, Sharon
+%A Tlusty, Tal
+%A Gur, Yaniv
+%A Ben-Ari, Rami
+%A Hashoul, Sharbell
+%B International Conference on Medical Image Computing and Computer-Assisted Intervention
+%P 594-602
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Delineation of tumor habitats based on dynamic contrast enhanced MRI
+%A Chang, Yu-Cherng Channing
+%A Ackerstaff, Ellen
+%A Tschudi, Yohann
+%A Jimenez, Bryan
+%A Foltz, Warren
+%A Fisher, Carl
+%A Lilge, Lothar
+%A Cho, HyungJoon
+%A Carlin, Sean
+%A Gillies, Robert J
+%J Scientific reports
+%V 7
+%N 1
+%P 9746
+%@ 2045-2322
+%D 2017
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Approaches to uncovering cancer diagnostic and prognostic molecular signatures
+%A Hong, Shengjun
+%A Huang, Yi
+%A Cao, Yaqiang
+%A Chen, Xingwei
+%A Han, Jing-Dong J
+%J Molecular & cellular oncology
+%V 1
+%N 2
+%P e957981
+%@ 2372-3556
+%D 2014
+%I Taylor & Francis
+
+%0 Journal Article
+%T Integrative radiogenomic analysis for multicentric radiophenotype in glioblastoma
+%A Kong, Doo-Sik
+%A Kim, Jinkuk
+%A Lee, In-Hee
+%A Kim, Sung Tae
+%A Seol, Ho Jun
+%A Lee, Jung-Il
+%A Park, Woong-Yang
+%A Ryu, Gyuha
+%A Wang, Zichen
+%A Ma'ayan, Avi
+%J Oncotarget
+%V 7
+%N 10
+%P 11526
+%D 2016
+%I Impact Journals, LLC
+
+%0 Journal Article
+%T Multisite concordance of apparent diffusion coefficient measurements across the NCI Quantitative Imaging Network
+%A Newitt, David C
+%A Malyarenko, Dariya
+%A Chenevert, Thomas L
+%A Quarles, C Chad
+%A Bell, Laura
+%A Fedorov, Andriy
+%A Fennessy, Fiona
+%A Jacobs, Michael A
+%A Solaiyappan, Meiyappan
+%A Hectors, Stefanie
+%J Journal of Medical Imaging
+%V 5
+%N 1
+%P 011003
+%@ 2329-4302
+%D 2017
+%I International Society for Optics and Photonics
+
+%0 Conference Proceedings
+%T Kernels for scalable data analysis in science: Towards an architecture-portable future
+%A Sukumar, Sreenivas R
+%A Kannan, Ramakrishnan
+%A Lim, Seung-Hwan
+%A Matheson, Michael A
+%B Big Data (Big Data), 2016 IEEE International Conference on
+%P 1026-1031
+%@ 1467390054
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T The public cancer radiology imaging collections of The Cancer Imaging Archive
+%A Prior, Fred
+%A Smith, Kirk
+%A Sharma, Ashish
+%A Kirby, Justin
+%A Tarbox, Lawrence
+%A Clark, Ken
+%A Bennett, William
+%A Nolan, Tracy
+%A Freymann, John
+%J Scientific data
+%V 4
+%P 170124
+%@ 2052-4463
+%D 2017
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Removal of horizontal and vertical scratches for a new class of wavelet and log energy bounded Wiener estimation over Poisson-Gaussian noise model
+%A Boyat, Ajay Kumar
+%A Joshi, Brijendra Kumar
+%J International Journal of Image Mining
+%V 1
+%N 4
+%P 297-325
+%@ 2055-6039
+%D 2015
+%I Inderscience Publishers (IEL)
+
+%0 Conference Proceedings
+%T Medical image segmentation based on multi-modal convolutional neural network: Study on image fusion schemes
+%A Quo, Zhe
+%A Li, Xiang
+%A Huang, Heng
+%A Quo, Ning
+%A Li, Quanzheng
+%B Biomedical Imaging (ISBI 2018), 2018 IEEE 15th International Symposium on
+%P 903-907
+%@ 1538636360
+%D 2018
+%I IEEE
+
+%0 Conference Proceedings
+%T Medical image colorization for better visualization and segmentation
+%A Khan, Muhammad Usman Ghani
+%A Gotoh, Yoshihiko
+%A Nida, Nudrat
+%B Annual Conference on Medical Image Understanding and Analysis
+%P 571-580
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Automatic estimation of the aortic lumen geometry by ellipse tracking
+%A Tahoces, Pablo G
+%A Alvarez, Luis
+%A González, Esther
+%A Cuenca, Carmelo
+%A Trujillo, Agustın
+%A Santana-Cedrés, Daniel
+%A Esclarín, J
+%A Gomez, Luis
+%A Mazorra, Luis
+%A Alemán-Flores, Miguel
+%J Preprint http://www. ctim. es/papers/AutomaticEstimationAorticLumen. pdf
+%D 2018
+
+%0 Conference Proceedings
+%T Singular value decomposition using block least mean square method for image denoising and compression
+%A Boyat, Ajay Kumar
+%A Khare, Parth
+%B Computer, Communication and Control (IC4), 2015 International Conference on
+%P 1-7
+%@ 1479981648
+%D 2015
+%I IEEE
+
+%0 Conference Proceedings
+%T Electric field distribution obtained by using the Finite Element Method and 3D reconstruction of a breast carcinoma: Approach to the electroporation of deep-seated tumors by using two needle electrodes
+%A Tizatl, AL Vera
+%A Martínez, CA Ramírez
+%A Tizatl, CE Vera
+%A Gutiérrez, MI
+%A Salas, L Leija
+%A Rodríguez, PR Hernández
+%A Hernández, A Vera
+%A Cuevas, SA Rodríguez
+%B Electrical Engineering, Computing Science and Automatic Control (CCE), 2016 13th International Conference on
+%P 1-5
+%@ 1509035117
+%D 2016
+%I IEEE
+
+%0 Conference Proceedings
+%T Analyzing breast tumor heterogeneity to predict the response to chemotherapy using 3D MR images registration
+%A Adoui, Mohammed El
+%A Drisis, Stylianos
+%A Benjelloun, Mohammed
+%B Proceedings of the 2017 International Conference on Smart Digital Environment
+%P 56-63
+%@ 1450352812
+%D 2017
+%I ACM
+
+%0 Journal Article
+%T Multi-field query expansion is effective for biomedical dataset retrieval
+%A Bouadjenek, Mohamed Reda
+%A Verspoor, Karin
+%J Database
+%V 2017
+%D 2017
+%I Oxford University Press
+
+%0 Journal Article
+%T A novel biomedical image indexing and retrieval system via deep preference learning
+%A Pang, Shuchao
+%A Orgun, Mehmet A
+%A Yu, Zhezhou
+%J Computer methods and programs in biomedicine
+%V 158
+%P 53-69
+%@ 0169-2607
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Bolus arrival time and its effect on tissue characterization with dynamic contrast-enhanced magnetic resonance imaging
+%A Mehrtash, Alireza
+%A Gupta, Sandeep N
+%A Shanbhag, Dattesh
+%A Miller, James V
+%A Kapur, Tina
+%A Fennessy, Fiona M
+%A Kikinis, Ron
+%A Fedorov, Andriy
+%J Journal of Medical Imaging
+%V 3
+%N 1
+%P 014503
+%@ 2329-4302
+%D 2016
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Agile convolutional neural network for pulmonary nodule classification using CT images
+%A Zhao, Xinzhuo
+%A Liu, Liyao
+%A Qi, Shouliang
+%A Teng, Yueyang
+%A Li, Jianhua
+%A Qian, Wei
+%J International journal of computer assisted radiology and surgery
+%P 1-11
+%@ 1861-6410
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T An application of cascaded 3D fully convolutional networks for medical image segmentation
+%A Roth, Holger R
+%A Oda, Hirohisa
+%A Zhou, Xiangrong
+%A Shimizu, Natsuki
+%A Yang, Ying
+%A Hayashi, Yuichiro
+%A Oda, Masahiro
+%A Fujiwara, Michitaka
+%A Misawa, Kazunari
+%A Mori, Kensaku
+%J Computerized Medical Imaging and Graphics
+%V 66
+%P 90-99
+%@ 0895-6111
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Lossless Compression of Medical Images Using 3-D Predictors
+%A Lucas, Luís FR
+%A Rodrigues, Nuno MM
+%A da Silva Cruz, Luis A
+%A de Faria, Sérgio MM
+%J IEEE transactions on medical imaging
+%V 36
+%N 11
+%P 2250-2260
+%@ 0278-0062
+%D 2017
+%I IEEE
+
+%0 Conference Proceedings
+%T A 3D semi-automated co-segmentation method for improved tumor target delineation in 3D PET/CT imaging
+%A Yu, Zexi
+%A Bui, Francis M
+%A Babyn, Paul
+%B Computing and Communication (IEMCON), 2015 International Conference and Workshop on
+%P 1-7
+%@ 1479969087
+%D 2015
+%I IEEE
+
+%0 Conference Proceedings
+%T Discriminative localization in CNNs for weakly-supervised segmentation of pulmonary nodules
+%A Feng, Xinyang
+%A Yang, Jie
+%A Laine, Andrew F
+%A Angelini, Elsa D
+%B International Conference on Medical Image Computing and Computer-Assisted Intervention
+%P 568-576
+%D 2017
+%I Springer
+
+%0 Conference Proceedings
+%T A dynamic data warehousing platform for creating and accessing biomedical data lakes
+%A Kathiravelu, Pradeeban
+%A Sharma, Ashish
+%B VLDB Workshop on Data Management and Analytics for Medicine and Healthcare
+%P 101-120
+%D 2016
+%I Springer
+
+%0 Conference Proceedings
+%T Optimization of EHR Data Flow Toward Healthcare Analytics
+%A Tiwari, Vivek
+%A Thakur, Ramjeevan Singh
+%A Tiwari, Basant
+%B Proceedings of International Conference on Recent Advancement on Computer and Communication
+%P 637-643
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T A longitudinal four‐dimensional computed tomography and cone beam computed tomography dataset for image‐guided radiation therapy research in lung cancer
+%A Hugo, Geoffrey D
+%A Weiss, Elisabeth
+%A Sleeman, William C
+%A Balik, Salim
+%A Keall, Paul J
+%A Lu, Jun
+%A Williamson, Jeffrey F
+%J Medical physics
+%V 44
+%N 2
+%P 762-771
+%@ 2473-4209
+%D 2017
+%I Wiley Online Library
+
+%0 Journal Article
+%T An Efficient Pipeline for Abdomen Segmentation in CT Images
+%A Koyuncu, Hasan
+%A Ceylan, Rahime
+%A Sivri, Mesut
+%A Erdogan, Hasan
+%J Journal of digital imaging
+%V 31
+%N 2
+%P 262-274
+%@ 0897-1889
+%D 2018
+%I Springer
+
+%0 Conference Proceedings
+%T Basic, Dual, Adaptive, and Directed Mutation Operators in the Fly Algorithm
+%A Abbood, Zainab Ali
+%A Vidal, Franck P
+%B International Conference on Artificial Evolution (Evolution Artificielle)
+%P 100-114
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Fast and Accurate Semi-Automatic Segmentation Tool for Brain Tumor MRIs
+%A Chen, Andrew X
+%A Rabadán, Raúl
+%J arXiv preprint arXiv:1705.06823
+%D 2017
+
+%0 Journal Article
+%T An Enumeration of Radiotherapy Terminologies, Planning and its Optimization
+%A Naresh, K
+%A Kannan, R Jagadeesh
+%J Materials Today: Proceedings
+%V 5
+%N 1
+%P 1048-1056
+%@ 2214-7853
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Latency management in scribble-based interactive segmentation of medical images
+%A Gueziri, Houssem-Eddine
+%A McGuffin, Michael J
+%A Laporte, Catherine
+%J IEEE Transactions on Biomedical Engineering
+%V 65
+%N 5
+%P 1140-1150
+%@ 0018-9294
+%D 2018
+%I IEEE
+
+%0 Conference Proceedings
+%T Automatic Removal of Mechanical Fixations from CT Imagery with Particle Swarm Optimisation
+%A Ryalat, Mohammad Hashem
+%A Laycock, Stephen
+%A Fisher, Mark
+%B International Conference on Bioinformatics and Biomedical Engineering
+%P 419-431
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T 4DCT imaging to assess radiomics feature stability: An investigation for thoracic cancers
+%A Larue, Ruben THM
+%A Van De Voorde, Lien
+%A van Timmeren, Janna E
+%A Leijenaar, Ralph TH
+%A Berbée, Maaike
+%A Sosef, Meindert N
+%A Schreurs, Wendy MJ
+%A van Elmpt, Wouter
+%A Lambin, Philippe
+%J Radiotherapy and Oncology
+%V 125
+%N 1
+%P 147-153
+%@ 0167-8140
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T Discrimination of Benign and Malignant Suspicious Breast Tumors Based on Semi-Quantitative DCE-MRI Parameters Employing Support Vector Machine
+%A Navaei-Lavasani, Saeedeh
+%A Fathi-Kazerooni, Anahita
+%A Saligheh-Rad, Hamidreza
+%A Gity, Masoumeh
+%J Frontiers in Biomedical Technologies
+%V 2
+%N 2
+%P 87-92
+%@ 2345-5837
+%D 2015
+
+%0 Journal Article
+%T Semantic Technologies and Bio-Ontologies
+%A Gutierrez, Fernando
+%J Bioinformatics in MicroRNA Research
+%P 83-91
+%@ 1493970445
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Computer Aided Brain Tumor Edge Extraction Using Morphological Operations
+%A AlAzawee, Warqaa Shaher
+%D 2015
+
+%0 Conference Proceedings
+%T CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance
+%A Jesson, Andrew
+%A Guizard, Nicolas
+%A Ghalehjegh, Sina Hamidi
+%A Goblot, Damien
+%A Soudan, Florian
+%A Chapados, Nicolas
+%B International Conference on Medical Image Computing and Computer-Assisted Intervention
+%P 639-646
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Segmentation of Dynamic Contrast-Enhanced Magnetic Resonance Images of the Prostate
+%A Torres, Wuilian
+%A Cordero, Leonardo
+%A Martín-Landrove, Miguel
+%A Rueda-Toicen, Antonio
+%J arXiv preprint arXiv:1710.03396
+%D 2017
+
+%0 Conference Proceedings
+%T Convolutional neural networks for lung cancer screening in computed tomography (CT) scans
+%A Rao, Prajwal
+%A Pereira, Nishal Ancelette
+%A Srinivasan, Raghuram
+%B Contemporary Computing and Informatics (IC3I), 2016 2nd International Conference on
+%P 489-493
+%@ 1509052569
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T Assessing the Effects of Software Platforms on Volumetric Segmentation of Glioblastoma
+%A Dunn Jr, William D
+%A Aerts, Hugo JWL
+%A Cooper, Lee A
+%A Holder, Chad A
+%A Hwang, Scott N
+%A Jaffe, Carle C
+%A Brat, Daniel J
+%A Jain, Rajan
+%A Flanders, Adam E
+%A Zinn, Pascal O
+%J Journal of neuroimaging in psychiatry & neurology
+%V 1
+%N 2
+%P 64
+%D 2016
+%I NIH Public Access
+
+%0 Conference Proceedings
+%T Anatomical DCE-MRI phantoms generated from glioma patient data
+%A Beers, Andrew
+%A Chang, Ken
+%A Brown, James
+%A Zhu, Xia
+%A Sengupta, Dipanjan
+%A Willke, Theodore L
+%A Gerstner, Elizabeth
+%A Rosen, Bruce
+%A Kalpathy-Cramer, Jayashree
+%B Medical Imaging 2018: Physics of Medical Imaging
+%V 10573
+%P 105732V
+%D 2018
+%I International Society for Optics and Photonics
+
+%0 Conference Proceedings
+%T Sinogram synthesis using convolutional-neural-network for sparsely view-sampled CT
+%A Lee, Jongha
+%A Lee, Hoyeon
+%A Cho, Seungryong
+%B Medical Imaging 2018: Image Processing
+%V 10574
+%P 105742A
+%D 2018
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T An appraisal of nodules detection techniques for lung cancer in CT images
+%A ur Rehman, Muhammad Zia
+%A Javaid, Muzzamil
+%A Shah, Syed Irtiza Ali
+%A Gilani, Syed Omer
+%A Jamil, Mohsin
+%A Butt, Shahid Ikramullah
+%J Biomedical Signal Processing and Control
+%V 41
+%P 140-151
+%@ 1746-8094
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Comparative analysis of methods for classifying pulmonary nodules from computer-tomography images
+%A Glaznev, M Yu
+%A Gusarova, NF
+%A Kotsyuba, I Yu
+%A Ryabchikov, IA
+%A Sergeeva, MV
+%J Journal of Optical Technology
+%V 84
+%N 1
+%P 41-48
+%D 2017
+%I SI Vavilov Optical Institute
+
+%0 Journal Article
+%T Enhancement of multimodality texture-based prediction models via optimization of PET and MR image acquisition protocols: a proof of concept
+%A Vallières, Martin
+%A Laberge, Sébastien
+%A Diamant, André
+%A El Naqa, Issam
+%J Physics in Medicine & Biology
+%V 62
+%N 22
+%P 8536
+%@ 0031-9155
+%D 2017
+%I IOP Publishing
+
+%0 Journal Article
+%T Analysis of Vestibular Labyrinthine Geometry and Variation in the Human Temporal Bone
+%A Johnson Chacko, Lejo
+%A Schmidbauer, Dominik T
+%A Handschuh, Stephan
+%A Reka, Alen
+%A Fritscher, Karl D
+%A Raudaschl, Patrik
+%A Saba, Rami
+%A Handler, Michael
+%A Schier, Peter P
+%A Baumgarten, Daniel
+%J Frontiers in neuroscience
+%V 12
+%P 107
+%@ 1662-453X
+%D 2018
+%I Frontiers
+
+%0 Journal Article
+%T Radiology and Enterprise Medical Imaging Extensions (REMIX)
+%A Erdal, Barbaros S
+%A Prevedello, Luciano M
+%A Qian, Songyue
+%A Demirer, Mutlu
+%A Little, Kevin
+%A Ryu, John
+%A O'Donnell, Thomas
+%A White, Richard D
+%J Journal of digital imaging
+%V 31
+%N 1
+%P 91-106
+%@ 0897-1889
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T Image Sharing in Radiology—A Primer
+%A Chatterjee, Arindam R
+%A Stalcup, Seth
+%A Sharma, Arjun
+%A Sato, T Shawn
+%A Gupta, Pushpender
+%A Lee, Yueh Z
+%A Malone, Christopher
+%A McBee, Morgan
+%A Hotaling, Elise L
+%A Kansagra, Akash P
+%J Academic radiology
+%V 24
+%N 3
+%P 286-294
+%@ 1076-6332
+%D 2017
+%I Elsevier
+
+%0 Conference Proceedings
+%T Kernels for scalable data analysis in science: Towards an architecture-portable future
+%A Sukumar, Sreenivas R
+%A Kannan, Ramakrishnan
+%A Lim, Seung-Hwan
+%A Matheson, Michael A
+%B Big Data (Big Data), 2016 IEEE International Conference on
+%P 1026-1031
+%@ 1467390054
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T Deep Learning data integration for better risk stratification models of bladder cancer
+%A Poirion, Olivier B
+%A Chaudhary, Kumardeep
+%A Garmire, Lana X
+%J AMIA Summits on Translational Science Proceedings
+%V 2017
+%P 197
+%D 2018
+%I American Medical Informatics Association
+
+%0 Journal Article
+%T Breast MRI radiomics: comparison of computer-and human-extracted imaging phenotypes
+%A Sutton, Elizabeth J
+%A Huang, Erich P
+%A Drukker, Karen
+%A Burnside, Elizabeth S
+%A Li, Hui
+%A Net, Jose M
+%A Rao, Arvind
+%A Whitman, Gary J
+%A Zuley, Margarita
+%A Ganott, Marie
+%J European Radiology Experimental
+%V 1
+%N 1
+%P 22
+%@ 2509-9280
+%D 2017
+%I Springer
+
+%0 Conference Proceedings
+%T Defining Similarity Spaces for Large-Scale Image Retrieval Through Scientific Workflows
+%A Oliveira, Luis Fernando Milano
+%A Kaster, Daniel dos Santos
+%B Proceedings of the 21st International Database Engineering & Applications Symposium
+%P 57-65
+%@ 1450352200
+%D 2017
+%I ACM
+
+%0 Journal Article
+%T Breast cancer response prediction in neoadjuvant chemotherapy treatment based on texture analysis
+%A Ammar, Mohammed
+%A Mahmoudi, Saïd
+%A Stylianos, Drisis
+%J Procedia Computer Science
+%V 100
+%P 812-817
+%@ 1877-0509
+%D 2016
+%I Elsevier
+
+%0 Conference Proceedings
+%T Reproducing 2D breast mammography images with 3D printed phantoms
+%A Clark, Matthew
+%A Ghammraoui, Bahaa
+%A Badal, Andreu
+%B Medical Imaging 2016: Physics of Medical Imaging
+%V 9783
+%P 97830B
+%D 2016
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Application of Sparse-Coding Super-Resolution to 16-Bit DICOM Images for Improving the Image Resolution in MRI
+%A Ota, Junko
+%A Umehara, Kensuke
+%A Ishimaru, Naoki
+%A Ishida, Takayuki
+%J Open Journal of Medical Imaging
+%V 7
+%N 04
+%P 144
+%D 2017
+%I Scientific Research Publishing
+
+%0 Journal Article
+%T Segmentation-Free Direct Tumor Volume and Metabolic Activity Estimation from PET Scans
+%A Taghanaki, Saeid Asgari
+%A Duggan, Noirin
+%A Ma, Hillgan
+%A Hou, Xinchi
+%A Celler, Anna
+%A Benard, Francois
+%A Hamarneh, Ghassan
+%J Computerized Medical Imaging and Graphics
+%@ 0895-6111
+%D 2017
+%I Elsevier
+
+%0 Conference Proceedings
+%T Survival prediction of squamous cell head and neck cancer patients based on radiomic features selected from lung cancer patients using artificial neural network
+%A Kamezawa, H
+%A Arimura, H
+%A Soufi, M
+%B Medical Imaging 2018: Imaging Informatics for Healthcare, Research, and Applications
+%V 10579
+%P 1057918
+%D 2018
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T On-Demand Big Data Integration: A Hybrid ETL Approach for Reproducible Scientific Research
+%A Kathiravelu, Pradeeban
+%A Sharma, Ashish
+%A Galhardas, Helena
+%A Van Roy, Peter
+%A Veiga, Luıs
+%J arXiv preprint arXiv:1804.08985
+%D 2018
+
+%0 Journal Article
+%T Radiogenomic analysis of hypoxia pathway is predictive of overall survival in Glioblastoma
+%A Beig, Niha
+%A Patel, Jay
+%A Prasanna, Prateek
+%A Hill, Virginia
+%A Gupta, Amit
+%A Correa, Ramon
+%A Bera, Kaustav
+%A Singh, Salendra
+%A Partovi, Sasan
+%A Varadan, Vinay
+%J Scientific reports
+%V 8
+%N 1
+%P 7
+%@ 2045-2322
+%D 2018
+%I Nature Publishing Group
+
+%0 Journal Article
+%T Brain tumor segmentation using morphological processing and the discrete wavelet transform
+%A Lojzim, Joshua Michael
+%A Fries, Marcus
+%J Journal of Young Investigators
+%V 33
+%N 3
+%D 2017
+
+%0 Journal Article
+%T Primer for image informatics in personalized medicine
+%A Chang, Young Hwan
+%A Foley, Patrick
+%A Azimi, Vahid
+%A Borkar, Rohan
+%A Lefman, Jonathan
+%J Procedia engineering
+%V 159
+%P 58-65
+%@ 1877-7058
+%D 2016
+%I Elsevier
+
+%0 Journal Article
+%T Deep learning in mammography and breast histology, an overview and future trends
+%A Hamidinekoo, Azam
+%A Denton, Erika
+%A Rampun, Andrik
+%A Honnor, Kate
+%A Zwiggelaar, Reyer
+%J Medical image analysis
+%V 47
+%P 45-67
+%@ 1361-8415
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T A simple texture feature for retrieval of medical images
+%A Lan, Rushi
+%A Zhong, Si
+%A Liu, Zhenbing
+%A Shi, Zhuo
+%A Luo, Xiaonan
+%J Multimedia Tools and Applications
+%P 1-14
+%@ 1380-7501
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Breast Cancer Diagnostic System Based on MR images Using KPCA-Wavelet Transform and Support Vector Machine
+%A AL-Dabagh, Mustafa Zuhaer
+%A AL-Mukhtar, Firas H
+
+%0 Conference Proceedings
+%T Deep Neural Network Based Classification of Tumourous and Non-tumorous Medical Images
+%A Makde, Vipin
+%A Bhavsar, Jenice
+%A Jain, Swati
+%A Sharma, Priyanka
+%B International Conference on Information and Communication Technology for Intelligent Systems
+%P 199-206
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Cancer informatics vision: caBIG™
+%A Von Eschenbach, Andrew C
+%A Buetow, Kenneth
+%J Cancer informatics
+%V 2
+%P 117693510600200013
+%@ 1176-9351
+%D 2006
+%I SAGE Publications Sage UK: London, England
+
+%0 Conference Proceedings
+%T Radiographic-Deformation and Textural Heterogeneity (r-DepTH): An Integrated Descriptor for Brain Tumor Prognosis
+%A Prasanna, Prateek
+%A Mitra, Jhimli
+%A Beig, Niha
+%A Partovi, Sasan
+%A Singh, Gagandeep
+%A Pinho, Marco
+%A Madabhushi, Anant
+%A Tiwari, Pallavi
+%B International Conference on Medical Image Computing and Computer-Assisted Intervention
+%P 459-467
+%D 2017
+%I Springer
+
+%0 Conference Proceedings
+%T Tumor lesion segmentation from 3d PET using a machine learning driven active surface
+%A Ahmadvand, Payam
+%A Duggan, Nóirín
+%A Bénard, François
+%A Hamarneh, Ghassan
+%B International Workshop on Machine Learning in Medical Imaging
+%P 271-278
+%D 2016
+%I Springer
+
+%0 Journal Article
+%T An extended reference region model for DCE‐MRI that accounts for plasma volume
+%A Ahmed, Zaki
+%A Levesque, Ives R
+%J NMR in Biomedicine
+%P e3924
+%@ 0952-3480
+%D 2018
+%I Wiley Online Library
+
+%0 Journal Article
+%T Automated image quality assessment for chest CT scans
+%A Reeves, Anthony P
+%A Xie, Yiting
+%A Liu, Shuang
+%J Medical physics
+%V 45
+%N 2
+%P 561-578
+%@ 0094-2405
+%D 2018
+%I Wiley Online Library
+
+%0 Conference Proceedings
+%T Early detection of lung cancer from CT images: nodule segmentation and classification using deep learning
+%A Sharma, Manu
+%A Bhatt, Jignesh S
+%A Joshi, Manjunath V
+%B Tenth International Conference on Machine Vision (ICMV 2017)
+%V 10696
+%P 106960W
+%D 2018
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Relational Databases versus Search Engines: A Performance Comparison for Storing and Querying DICOM Metadata
+%A Savaris, Alexandre
+%A Colonetti, Gabriela Bussolo
+%A de Mello, Rodrigo Rodrigues Pires
+%A von Wangenheim, Aldo
+
+%0 Journal Article
+%T Finding relevant biomedical datasets: the UC San Diego solution for the bioCADDIE Retrieval Challenge
+%A Wei, Wei
+%A Ji, Zhanglong
+%A He, Yupeng
+%A Zhang, Kai
+%A Ha, Yuanchi
+%A Li, Qi
+%A Ohno-Machado, Lucila
+%J Database
+%V 2018
+%D 2018
+%I Oxford University Press
+
+%0 Journal Article
+%T Real‐time tomosynthesis for radiation therapy guidance
+%A Hsieh, Scott S
+%A Ng, Lydia W
+%J Medical physics
+%V 44
+%N 11
+%P 5584-5595
+%@ 2473-4209
+%D 2017
+%I Wiley Online Library
+
+%0 Journal Article
+%T 3D medical image registration using sparse coding and belief propagation
+%A Hou, Ji
+
+%0 Conference Proceedings
+%T Radiogenomic analysis of hypoxia pathway reveals computerized MRI descriptors predictive of overall survival in glioblastoma
+%A Beig, Niha
+%A Patel, Jay
+%A Prasanna, Prateek
+%A Partovi, Sasan
+%A Varadan, Vinay
+%A Madabhushi, Anant
+%A Tiwari, Pallavi
+%B Medical Imaging 2017: Computer-Aided Diagnosis
+%V 10134
+%P 101341U
+%D 2017
+%I International Society for Optics and Photonics
+
+%0 Conference Proceedings
+%T Identifying key radiogenomic associations between DCE-MRI and micro-RNA expressions for breast cancer
+%A Samala, Ravi K
+%A Chan, Heang-Ping
+%A Hadjiiski, Lubomir
+%A Helvie, Mark A
+%A Kim, Renaid
+%B Medical Imaging 2017: Computer-Aided Diagnosis
+%V 10134
+%P 101340T
+%D 2017
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Data Analysis in Radiotherapy Treatments: Planning, Predicting, and Assuring Treatment Quality
+%A Anacleto, Ana
+%A Dias, Joana
+%J International Journal of E-Health and Medical Communications (IJEHMC)
+%V 9
+%N 3
+%P 43-61
+%D 2018
+%I IGI Global
+
+%0 Journal Article
+%T Automatic detection of pulmonary nodules in CT images by incorporating 3D tensor filtering with local image feature analysis
+%A Gong, Jing
+%A Liu, Ji-yu
+%A Wang, Li-jia
+%A Sun, Xi-wen
+%A Zheng, Bin
+%A Nie, Sheng-dong
+%J Physica Medica
+%V 46
+%P 124-133
+%@ 1120-1797
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Handling images of patient postures in arms up and arms down position using a biomechanical skeleton model
+%A Teske, Hendrik
+%A Bartelheimer, Kathrin
+%A Bendl, Rolf
+%A Stoiber, Eva M
+%A Giske, Kristina
+%J Current Directions in Biomedical Engineering
+%V 3
+%N 2
+%P 469-472
+%@ 2364-5504
+%I De Gruyter
+
+%0 Journal Article
+%T Computer-aided diagnosis of lung nodule using gradient tree boosting and Bayesian optimization
+%A Nishio, Mizuho
+%A Nishizawa, Mitsuo
+%A Sugiyama, Osamu
+%A Kojima, Ryosuke
+%A Yakami, Masahiro
+%A Kuroda, Tomohiro
+%A Togashi, Kaori
+%J PloS one
+%V 13
+%N 4
+%P e0195875
+%@ 1932-6203
+%D 2018
+%I Public Library of Science
+
+%0 Journal Article
+%T Analysis of dual tree M‐band wavelet transform based features for brain image classification
+%A Ayalapogu, Ratna Raju
+%A Pabboju, Suresh
+%A Ramisetty, Rajeswara Rao
+%J Magnetic resonance in medicine
+%@ 0740-3194
+%D 2018
+%I Wiley Online Library
+
+%0 Journal Article
+%T Big data management challenges in health research—a literature review
+%A Wang, Xiaoming
+%A Williams, Carolyn
+%A Liu, Zhen Hua
+%A Croghan, Joe
+%J Briefings in bioinformatics
+%D 2017
+
+%0 Journal Article
+%T Personalized treatment of pain in brain tumor patients with tDCS: Are we there?
+%A Manoli, Zoi
+%A Samaras, Theodoros
+
+%0 Journal Article
+%T A 3D-Texture-Based Segmentation of Prostate Tumor towards a Precise Localization within MRI Volume Data
+%A Chaisaowong, Kraisorn
+%A Kitza, Markus
+%J 대한전자공학회 학술대회
+%P 550-553
+%D 2017
+
+%0 Journal Article
+%T Deciphering unclassified tumors of non-small-cell lung cancer through radiomics
+%A Saad, Maliazurina
+%A Choi, Tae-Sun
+%J Computers in biology and medicine
+%V 91
+%P 222-230
+%@ 0010-4825
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T Locoregional Radiogenomic Models Capture Gene Expression Heterogeneity in Glioblastoma
+%A Depeursinge, Adrien
+%A Szilagyi, Tunde
+%A Liu, Yan
+%A Kovacs, Kazmer
+%A Thomas, Reena
+%A Yeom, Kristen
+%A Fischbein, Nancy
+%A Rubin, Daniel
+%A Iv, Michael
+%A Gevaert, Olivier
+%J bioRxiv
+%P 304105
+%D 2018
+%I Cold Spring Harbor Laboratory
+
+%0 Journal Article
+%T Diagnostic Assessment of Breast Cancer in Non-Contrast MRI Images Through an Artificial Intelligence Machine Learning Algorithm
+%A Detheridge, Craig Neal
+%A Saponara, Philip
+%A Bhangu, Jaspreet
+%A Bloch, Boris Nicholas
+%A Thomas, Kevin
+
+%0 Journal Article
+%T Convection enhanced delivery of chemotherapeutic drugs into brain tumour
+%A Zhan, Wenbo
+%A Wang, Chi-Hwa
+%J Journal of Controlled Release
+%@ 0168-3659
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T DeepCADe: A Deep Learning Architecture for the Detection of Lung Nodules in CT Scans
+%A Golan, Rotem
+%D 2018
+%I Science
+
+%0 Conference Proceedings
+%T Tumor propagation model using generalized hidden Markov model
+%A Park, Sun Young
+%A Sargent, Dustin
+%B Medical Imaging 2017: Image Processing
+%V 10133
+%P 101331G
+%D 2017
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Comparison of novel multi-level Otsu (MO-PET) and conventional PET segmentation methods for measuring FDG metabolic tumor volume in patients with soft tissue sarcoma
+%A Lee, Inki
+%A Im, Hyung-Jun
+%A Solaiyappan, Meiyappan
+%A Cho, Steve Y
+%J EJNMMI physics
+%V 4
+%N 1
+%P 22
+%@ 2197-7364
+%D 2017
+%I Nature Publishing Group
+
+%0 Conference Proceedings
+%T MRI to MGMT: predicting methylation status in glioblastoma patients using convolutional recurrent neural networks
+%A Han, Lichy
+%A Kamdar, Maulik R
+%B Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+%V 23
+%P 331
+%@ 2335-6936
+%D 2018
+%I World Scientific
+
+%0 Journal Article
+%T Influence of Contrast Administration on Computed Tomography–Based Analysis of Visceral Adipose and Skeletal Muscle Tissue in Clear Cell Renal Cell Carcinoma
+%A Paris, Michael T
+%A Furberg, Helena F
+%A Petruzella, Stacey
+%A Akin, Oguz
+%A Hötker, Andreas M
+%A Mourtzakis, Marina
+%J Journal of Parenteral and Enteral Nutrition
+%@ 1941-2444
+%D 2018
+%I Wiley Online Library
+
+%0 Journal Article
+%T A Method for Lymph Node Segmentation with Scaling Features in a Random Forest Model
+%A Zhao, Wenjing
+%A Shi, Feng
+%J Current Proteomics
+%V 15
+%N 2
+%P 128-134
+%@ 1570-1646
+%D 2018
+%I Bentham Science Publishers
+
+%0 Conference Proceedings
+%T Simultaneous segmentation and correspondence improvement using statistical modes
+%A Sinha, Ayushi
+%A Reiter, Austin
+%A Leonard, Simon
+%A Ishii, Masaru
+%A Hager, Gregory D
+%A Taylor, Russell H
+%B Medical Imaging 2017: Image Processing
+%V 10133
+%P 101331B
+%D 2017
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Modification of population based arterial input function to incorporate individual variation
+%A Kim, Harrison
+%J Magnetic resonance imaging
+%V 45
+%P 66-71
+%@ 0730-725X
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Deep-Learning Convolutional Neural Networks Accurately Classify Genetic Mutations in Gliomas
+%A Chang, P
+%A Grinband, J
+%A Weinberg, BD
+%A Bardis, M
+%A Khy, M
+%A Cadena, G
+%A Su, M-Y
+%A Cha, S
+%A Filippi, CG
+%A Bota, D
+%J American Journal of Neuroradiology
+%@ 0195-6108
+%D 2018
+%I Am Soc Neuroradiology
+
+%0 Journal Article
+%T A closed form expression for the Gaussian–based Caputo–Fabrizio fractional derivative for signal processing applications
+%A Cruz–Duarte, Jorge M
+%A Rosales–Garcia, Juan
+%A Correa–Cely, C Rodrigo
+%A Garcia–Perez, Arturo
+%A Avina–Cervantes, Juan Gabriel
+%J Communications in Nonlinear Science and Numerical Simulation
+%V 61
+%P 138-148
+%@ 1007-5704
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Inhibition of Wnt/beta-catenin signaling downregulates expression of aldehyde dehydrogenase isoform 3A1 (ALDH3A1) to reduce resistance against temozolomide in glioblastoma in vitro
+%A Suwala, Abigail Kora
+%A Koch, Katharina
+%A Rios, Dayana Herrera
+%A Aretz, Philippe
+%A Uhlmann, Constanze
+%A Ogorek, Isabella
+%A Felsberg, Jörg
+%A Reifenberger, Guido
+%A Köhrer, Karl
+%A Deenen, René
+%J Oncotarget
+%V 9
+%N 32
+%P 22703
+%D 2018
+%I Impact Journals, LLC
+
+%0 Journal Article
+%T Automated 3-D Tissue Segmentation Via Clustering
+%A Edwards, Samuel
+%A Brown, Scott
+%A Lee, Michael
+%J Journal of Biomedical Engineering and Medical Imaging
+%V 5
+%N 2
+%P 08
+%D 2018
+
+%0 Journal Article
+%T Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database
+%A Yan, Ke
+%A Wang, Xiaosong
+%A Lu, Le
+%A Zhang, Ling
+%A Harrison, Adam
+%A Bagheri, Mohammadhad
+%A Summers, Ronald
+%J arXiv preprint arXiv:1711.10535
+%D 2017
+
+%0 Journal Article
+%T Big Data Analytics for Precision Medicine
+%A Wu, Po-Yen
+%A Cheng, Chih-Wen
+%A Kaddi, Chanchala D
+%A Venugopalan, Janani
+%A Hoffman, Ryan
+%D 2015
+
+%0 Journal Article
+%T Three-Dimensional Local Energy-Based Shape Histogram (3D-LESH)-Based Feature Extraction‒A Novel Technique
+%A Wajid, Summrina Kanwal
+%A Hussain, Amir
+%A Huang, Kaizhu
+%J Expert Systems with Applications
+%@ 0957-4174
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T Brain tumor detection from MRI image: An approach
+%A Ghosh, Debjyoti
+%A Bandyopadhyay, Samir Kumar
+%J IJAR
+%V 3
+%N 6
+%P 1152-1159
+%D 2017
+
+%0 Journal Article
+%T Temporo-Spatial Collaborative Filtering for Parameter Estimation in Noisy DCE-MRI Sequences: Application to Breast Cancer Chemotherapy Response
+%A Zhu, Xia
+%A Sengupta, Dipanjan
+%A Beers, Andrew
+%A Jayashree, Kalpathy-Cramer
+%A Willke, Theodore L
+%J arXiv preprint arXiv:1803.01099
+%D 2018
+
+%0 Journal Article
+%T Pilot study for supervised target detection applied to spatially registered multiparametric MRI in order to non-invasively score prostate cancer
+%A Mayer, Rulon
+%A Simone, Charles B
+%A Skinner, William
+%A Turkbey, Baris
+%A Choykey, Peter
+%J Computers in biology and medicine
+%V 94
+%P 65-73
+%@ 0010-4825
+%D 2018
+%I Elsevier
+
+%0 Conference Proceedings
+%T An evaluation of adobe flash for remote access medical imaging applications
+%A Min, Qiusha
+%A Wang, Zhifeng
+%A Wu, Mei
+%B Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), International Congress on
+%P 645-650
+%@ 1509037101
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T TCIApathfinder: an R client for The Cancer Imaging Archive REST API
+%A Russell, Pamela
+%A Fountain, Kelly
+%A Wolverton, Dulcy
+%A Ghosh, Debashis
+%J Cancer research
+%P canres. 0678.2018
+%@ 0008-5472
+%D 2018
+%I AACR
+
+%0 Conference Proceedings
+%T On-Demand Service-Based Big Data Integration: Optimized for Research Collaboration
+%A Kathiravelu, Pradeeban
+%A Chen, Yiru
+%A Sharma, Ashish
+%A Galhardas, Helena
+%A Van Roy, Peter
+%A Veiga, Luís
+%B VLDB Workshop on Data Management and Analytics for Medicine and Healthcare
+%P 9-28
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Noninvasive Grading of Glioma Tumor Using Magnetic Resonance Imaging with Convolutional Neural Networks
+%A Khawaldeh, Saed
+%A Pervaiz, Usama
+%A Rafiq, Azhar
+%A Alkhawaldeh, Rami S
+%J Applied Sciences
+%V 8
+%N 1
+%P 27
+%D 2017
+%I Multidisciplinary Digital Publishing Institute
+
+%0 Journal Article
+%T Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network
+%A Liao, Fangzhou
+%A Liang, Ming
+%A Li, Zhe
+%A Hu, Xiaolin
+%A Song, Sen
+%J arXiv preprint arXiv:1711.08324
+%D 2017
+
+%0 Journal Article
+%T Integrative analysis of imaging and transcriptomic data of the immune landscape associated with tumor metabolism in lung adenocarcinoma: Clinical and prognostic implications
+%A Choi, Hongyoon
+%A Na, Kwon Joong
+%J Theranostics
+%V 8
+%N 7
+%P 1956
+%D 2018
+%I Ivyspring International Publisher
+
+%0 Conference Proceedings
+%T A computer aided diagnosis system for detection of lung nodules from series of CT slices
+%A Paing, May Phu
+%A Choomchuay, Somsak
+%B Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 2017 14th International Conference on
+%P 302-305
+%@ 1538604493
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Deep-neural-network based sinogram synthesis for sparse-view CT image reconstruction
+%A Lee, Hoyeon
+%A Lee, Jongha
+%A Kim, Hyeongseok
+%A Cho, Byungchul
+%A Cho, Seungryong
+%J arXiv preprint arXiv:1803.00694
+%D 2018
+
+%0 Journal Article
+%T Efficient Colorization of Medical Imaging based on Colour Transfer Method
+%A Nida, Nudrat
+%A Khan, Muhammad Usman Ghani
+
+%0 Journal Article
+%T 3D PULMONARY NODULES DETECTION USING FAST MARCHING SEGMENTATION
+%A Paing, MP
+%A Choomchuay, S
+%J Journal of Fundamental and Applied Sciences
+%V 9
+%N 4S
+%P 319-339
+%@ 1112-9867
+%D 2017
+
+%0 Journal Article
+%T 2D and 3D CT Radiomics Features Prognostic Performance Comparison in Non-Small Cell Lung Cancer
+%A Shen, Chen
+%A Liu, Zhenyu
+%A Guan, Min
+%A Song, Jiangdian
+%A Lian, Yucheng
+%A Wang, Shuo
+%A Tang, Zhenchao
+%A Dong, Di
+%A Kong, Lingfei
+%A Wang, Meiyun
+%J Translational oncology
+%V 10
+%N 6
+%P 886-894
+%@ 1936-5233
+%D 2017
+%I Elsevier
+
+%0 Conference Proceedings
+%T Artificial neural networks applications in computer aided diagnosis: system design and use as an educational tool
+%A Rodríguez, Jorge Hernández
+%A Conde, María José Rodríguez
+%A Fraile, Francisco Javier Cabrero
+%B Proceedings of the Fourth International Conference on Technological Ecosystems for Enhancing Multiculturality
+%P 1201-1208
+%@ 1450347479
+%D 2016
+%I ACM
+
+%0 Journal Article
+%T Prognostic value and molecular correlates of a CT image-based quantitative pleural contact index in early stage NSCLC
+%A Lee, Juheon
+%A Cui, Yi
+%A Sun, Xiaoli
+%A Li, Bailiang
+%A Wu, Jia
+%A Li, Dengwang
+%A Gensheimer, Michael F
+%A Loo, Billy W
+%A Diehn, Maximilian
+%A Li, Ruijiang
+%J European radiology
+%V 28
+%N 2
+%P 736-746
+%@ 0938-7994
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T Exploration of temporal stability and prognostic power of radiomic features based on electronic portal imaging device images
+%A Soufi, Mazen
+%A Arimura, Hidetaka
+%A Nakamoto, Takahiro
+%A Hirose, Taka-aki
+%A Ohga, Saiji
+%A Umezu, Yoshiyuki
+%A Honda, Hiroshi
+%A Sasaki, Tomonari
+%J Physica Medica
+%V 46
+%P 32-44
+%@ 1120-1797
+%D 2018
+%I Elsevier
+
+%0 Conference Proceedings
+%T Classification of margin characteristics from 3D pulmonary nodules
+%A Paing, May Phu
+%A Choomchuay, Somsak
+%B Biomedical Engineering International Conference (BMEiCON), 2017 10th
+%P 1-5
+%@ 1538608820
+%D 2017
+%I IEEE
+
+%0 Conference Proceedings
+%T Collage CNN for Renal Cell Carcinoma Detection from CT
+%A Hussain, Mohammad Arafat
+%A Amir-Khalili, Alborz
+%A Hamarneh, Ghassan
+%A Abugharbieh, Rafeef
+%B International Workshop on Machine Learning in Medical Imaging
+%P 229-237
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T An integrated scattering feature with application to medical image retrieval
+%A Lan, Rushi
+%A Wang, Huadeng
+%A Zhong, Si
+%A Liu, Zhenbing
+%A Luo, Xiaonan
+%J Computers & Electrical Engineering
+%@ 0045-7906
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Computer-aided biomarker discovery for precision medicine: data resources, models and applications
+%A Lin, Yuxin
+%A Qian, Fuliang
+%A Shen, Li
+%A Chen, Feifei
+%A Chen, Jiajia
+%A Shen, Bairong
+%J Briefings in bioinformatics
+%D 2017
+
+%0 Journal Article
+%T FastDRaW–Fast Delineation by Random Walker: application to large images
+%A Gueziri, Houssem-Eddine
+%A Lakhdar, Lina
+%A McGuffin, Michael J
+%A Laporte, Catherine
+%D 2016
+
+%0 Journal Article
+%T Imaging genomics
+%A Hariri, Ahmad R
+%A Weinberger, Daniel R
+%J British medical bulletin
+%V 65
+%N 1
+%P 259-270
+%@ 1471-8391
+%D 2003
+%I Oxford University Press
+
+%0 Conference Proceedings
+%T Ground glass opacity (GGO) nodules detection from lung CT scans
+%A Paing, May Phu
+%A Choomchuay, Somsak
+%B Electronics and Smart Devices (ISESD), 2017 International Symposium on
+%P 230-235
+%@ 1538627787
+%D 2017
+%I IEEE
+
+%0 Conference Proceedings
+%T Elastic deformations for data augmentation in breast cancer mass detection
+%A Castro, Eduardo
+%A Cardoso, Jaime S
+%A Pereira, Jose Costa
+%B Biomedical & Health Informatics (BHI), 2018 IEEE EMBS International Conference on
+%P 230-234
+%@ 1538624052
+%D 2018
+%I IEEE
+
+%0 Journal Article
+%T Planning, guidance, and quality assurance of pelvic screw placement using deformable image registration
+%A Goerres, J
+%A Uneri, A
+%A Jacobson, M
+%A Ramsay, B
+%A De Silva, T
+%A Ketcha, M
+%A Han, R
+%A Manbachi, A
+%A Vogt, S
+%A Kleinszig, G
+%J Physics in Medicine & Biology
+%V 62
+%N 23
+%P 9018
+%@ 0031-9155
+%D 2017
+%I IOP Publishing
+
+%0 Journal Article
+%T Effectiveness of different rescanning techniques for scanned proton radiotherapy in lung cancer patients
+%A Engwall, E
+%A Glimelius, L
+%A Hynning, E
+%J Physics in Medicine & Biology
+%V 63
+%N 9
+%P 095006
+%@ 0031-9155
+%D 2018
+%I IOP Publishing
+
+%0 Conference Proceedings
+%T A fast and automatic approach for removing artefacts due to immobilisation masks in X-ray CT
+%A Ryalat, Mohammad Hashem
+%A Laycock, Stephen
+%A Fisher, Mark
+%B Biomedical & Health Informatics (BHI), 2017 IEEE EMBS International Conference on
+%P 33-36
+%@ 1509041796
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Ensemble of expert deep neural networks for spatio-temporal denoising of contrast-enhanced MRI sequences
+%A Benou, A
+%A Veksler, R
+%A Friedman, A
+%A Raviv, T Riklin
+%J Medical image analysis
+%V 42
+%P 145-159
+%@ 1361-8415
+%D 2017
+%I Elsevier
+
+%0 Journal Article
+%T Improving Brain Tumor Diagnosis Using MRI Segmentation Based on Collaboration of Beta Mixture Model and Learning Automata
+%A Edalati-rad, Akram
+%A Mosleh, Mohammad
+%J Arabian Journal for Science and Engineering
+%P 1-13
+%@ 2193-567X
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T Fair Deep Learning Prediction for Healthcare Applications with Confounder Filtering
+%A Wu, Zhenglin
+%A Wang, Haohan
+%A Cao, Mingze
+%A Chen, Yin
+%A Xing, Eric P
+%J arXiv preprint arXiv:1803.07276
+%D 2018
+
+%0 Journal Article
+%T Image Super-Resolution Algorithm Based on an Improved Sparse Autoencoder
+%A Huang, Detian
+%A Huang, Weiqin
+%A Yuan, Zhenguo
+%A Lin, Yanming
+%A Zhang, Jian
+%A Zheng, Lixin
+%J Information
+%V 9
+%N 1
+%P 11
+%D 2018
+%I Multidisciplinary Digital Publishing Institute
+
+%0 Journal Article
+%T Breast Cancer Analysis in DCE-MRI
+%A Piantadosi, Gabriele
+%D 2017
+%I UniversitÃ  degli Studi di Napoli Federico II
+
+%0 Journal Article
+%T An Uncertainty-aware Workflow for Keyhole Surgery Planning using Hierarchical Image Semantics
+%A Gillmann, Christina
+%A Maack, Robin GC
+%A Post, Tobias
+%A Wischgoll, Thomas
+%A Hagen, Hans
+%J Visual Informatics
+%V 2
+%N 1
+%P 26-36
+%@ 2468-502X
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Automated delineation of non-small cell lung cancer
+%A Saad, Maliazurina Binti
+%J bioRxiv
+%P 304949
+%D 2018
+%I Cold Spring Harbor Laboratory
+
+%0 Journal Article
+%T Radiogenomics of hepatocellular carcinoma: multiregion analysis-based identification of prognostic imaging biomarkers by integrating gene data——a preliminary study
+%A Xia, Wei
+%A Chen, Ying
+%A Zhang, Rui
+%A Yan, Zhuangzhi
+%A Zhou, Xiaobo
+%A Zhang, Bo
+%A Gao, Xin
+%J Physics in medicine and biology
+%@ 1361-6560
+%D 2018
+%I IOP Publishing
+
+%0 Journal Article
+%T Automatic Electronic Cleansing in Computed Tomography Colonography Images using Domain Knowledge
+%A Manjunath, KN
+%A Siddalingaswamy, PC
+%A Prabhu, GK
+%J Asian Pacific Journal of Cancer Prevention
+%V 16
+%N 18
+%P 8351-8358
+%D 2015
+
+%0 Journal Article
+%T Rotated Filters and Learning Strategies in Convolutional Neural Networks for Mammographic Lesions Detection
+%A Castro, Eduardo Meca
+%D 2017
+
+%0 Journal Article
+%T Endoscopic navigation in the absence of CT imaging
+%A Sinha, Ayushi
+%A Liu, Xingtong
+%A Reiter, Austin
+%A Ishii, Masaru
+%A Hager, Gregory D
+%A Taylor, Russell H
+%J arXiv preprint arXiv:1806.03997
+%D 2018
+
+%0 Journal Article
+%T Computer-assisted subtyping and prognosis for non-small cell lung cancer patients with unresectable tumor
+%A Saad, Maliazurina
+%A Choi, Tae-Sun
+%J Computerized Medical Imaging and Graphics
+%V 67
+%P 1-8
+%@ 0895-6111
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T A survey and evaluation of Web-based tools/databases for variant analysis of TCGA data
+%A Zhang, Zhuo
+%A Li, Hao
+%A Jiang, Shuai
+%A Li, Ruijiang
+%A Li, Wanying
+%A Chen, Hebing
+%A Bo, Xiaochen
+%J Briefings in bioinformatics
+%D 2018
+
+%0 Journal Article
+%T Non-invasive tumor genotyping using radiogenomic biomarkers, a systematic review and oncology-wide pathway analysis
+%A Jansen, Robin W
+%A van Amstel, Paul
+%A Martens, Roland M
+%A Kooi, Irsan E
+%A Wesseling, Pieter
+%A de Langen, Adrianus J
+%A Menke-Van der Houven, Catharina W
+%J Oncotarget
+%V 9
+%N 28
+%P 20134
+%D 2018
+%I Impact Journals, LLC
+
+%0 Journal Article
+%T On combining active and transfer learning for medical data classification
+%A Tang, Xinyao
+%A Du, Bo
+%A Huang, Jianzhong
+%A Wang, Zengmao
+%A Zhang, Lefei
+%J IET Computer Vision
+%@ 1751-9640
+%D 2018
+%I IET
+
+%0 Journal Article
+%T Automatic 3D Mesh-Based Centerline Extraction from a Tubular Geometry Form
+%A Yahya-Zoubir, Bahia
+%A Hamami, Latifa
+%A Saadaoui, Llies
+%A Ouared, Rafik
+%J Information Technology And Control
+%V 45
+%N 2
+%P 156-163
+%@ 2335-884X
+%D 2016
+
+%0 Journal Article
+%T Associations between gene expression profiles of invasive breast cancer and Breast Imaging Reporting and Data System MRI lexicon
+%A Kim, Ga Ram
+%A Ku, You Jin
+%A Cho, Soon Gu
+%A Kim, Sei Joong
+%A Min, Byung Soh
+%J Annals of surgical treatment and research
+%V 93
+%N 1
+%P 18-26
+%@ 2288-6575
+%D 2017
+
+%0 Journal Article
+%T Fusing texture, shape and deep model-learned information at decision level for automated classification of lung nodules on chest CT
+%A Xie, Yutong
+%A Zhang, Jianpeng
+%A Xia, Yong
+%A Fulham, Michael
+%A Zhang, Yanning
+%J Information Fusion
+%V 42
+%P 102-110
+%@ 1566-2535
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T GlimpseNet: Attentional Methods for Full-Image Mammogram Diagnosis
+%A Hang, William
+%A Liu, Zihua
+%A Hannun, Awni
+
+%0 Journal Article
+%T Application of Super-Resolution Convolutional Neural Network for Enhancing Image Resolution in Chest CT
+%A Umehara, Kensuke
+%A Ota, Junko
+%A Ishida, Takayuki
+%J Journal of digital imaging
+%P 1-10
+%@ 0897-1889
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Select, Attend, and Transfer: Light, Learnable Skip Connections
+%A Taghanaki, Saeid Asgari
+%A Bentaieb, Aicha
+%A Sharma, Anmol
+%A Zhou, S Kevin
+%A Zheng, Yefeng
+%A Georgescu, Bogdan
+%A Sharma, Puneet
+%A Grbic, Sasa
+%A Xu, Zhoubing
+%A Comaniciu, Dorin
+%J arXiv preprint arXiv:1804.05181
+%D 2018
+
+%0 Journal Article
+%T Synergy of Sex Differences in Visceral Fat Measured with CT and Tumor Metabolism Helps Predict Overall Survival in Patients with Renal Cell Carcinoma
+%A Nguyen, Gerard K
+%A Mellnick, Vincent M
+%A Yim, Aldrin Kay-Yuen
+%A Salter, Amber
+%A Ippolito, Joseph E
+%J Radiology
+%V 287
+%N 3
+%P 884-892
+%@ 0033-8419
+%D 2018
+%I Radiological Society of North America
+
+%0 Journal Article
+%T A fully automated framework for lung tumour detection, segmentation and analysis
+%A Walawalkar, Devesh
+%J arXiv preprint arXiv:1801.01402
+%D 2018
+
+%0 Conference Proceedings
+%T Breast cancer response post neoadjuvant chemotherapy using MRI measurements
+%A Sivaranjini, S
+%A Nirmala, K
+%B Signal Processing, Communication and Networking (ICSCN), 2017 Fourth International Conference on
+%P 1-6
+%@ 1509047409
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Evolutionary image simplification for lung nodule classification with convolutional neural networks
+%A Lückehe, Daniel
+%A von Voigt, Gabriele
+%J International journal of computer assisted radiology and surgery
+%P 1-15
+%@ 1861-6410
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T Can quantitative shape analysis in CT differentiate benign from malignant pulmonary nodules?
+%A Casale, R
+%A Maris, BM
+%A Casale, C
+%A Bertelli, E
+%A Caramella, D
+%A Fiorini, P
+
+%0 Journal Article
+%T A hybrid mortality prediction model of patients with cavitary pulmonary carcinomas
+%A Saad, Maliazurina
+%J bioRxiv
+%P 341156
+%D 2018
+%I Cold Spring Harbor Laboratory
+
+%0 Journal Article
+%T Towards a Novel Medical Diagnosis System for Clinical Decision Support System Applications
+%A Kanwal, Summrina
+%D 2016
+%I University of Stirling
+
+%0 Conference Proceedings
+%T Computer aided detection and diagnosis in medical imaging: a review of clinical and educational applications
+%A Rodríguez, Jorge Hernández
+%A Fraile, Francisco Javier Cabrero
+%A Conde, María José Rodríguez
+%A Llorente, Pablo Luis Gómez
+%B Proceedings of the Fourth International Conference on Technological Ecosystems for Enhancing Multiculturality
+%P 517-524
+%@ 1450347479
+%D 2016
+%I ACM
+
+%0 Journal Article
+%T Assessing the prognostic impact of 3D CT image tumour rind texture features on lung cancer survival
+%A Vial, Alanna
+%A Stirling, David
+%A Field, Matthew
+%A Ros, Montserrat
+%A Ritz, Christian H
+%A Carolan, Martin G
+%A Holloway, Lois C
+%A Miller, Andrew Alexis
+%D 2017
+
+%0 Journal Article
+%T Detection of Brain Tumour in MRI Scan Images using Tetrolet Transform and SVM Classifier
+%A Babu, B Shoban
+%A Varadarajan, S
+%J Indian Journal of Science and Technology
+%V 10
+%N 19
+%@ 0974-5645
+%D 2017
+
+%0 Journal Article
+%T A New Hybrid Approach Using Fuzzy Clustering and Morphological Operations for Lung Segmentation in Thoracic CT Images
+%A Sahu, Satya Prakash
+%A Agrawal, Priyanka
+%A Londhe, Narendra D
+%J Biomedical and Pharmacology Journal
+%V 10
+%N 4
+%P 1949-1961
+%D 2017
+
+%0 Journal Article
+%T Automatic Prostate Cancer Segmentation Using Kinetic Analysis in Dynamic Contrast-Enhanced MRI
+%A Lavasani, S Navaei
+%A Mostaar, A
+%A Ashtiyani, M
+%J Journal of biomedical physics & engineering
+%V 8
+%N 1
+%P 107
+%D 2018
+%I Shiraz University of Medical Sciences
+
+%0 Journal Article
+%T GPU Acceleration on Image processing, machine decision, and surgical planning
+%A Yu-Wei, Chang
+%A Wen-Hann, Sheu
+
+%0 Journal Article
+%T A Probabilistic U-Net for Segmentation of Ambiguous Images
+%A Kohl, Simon AA
+%A Romera-Paredes, Bernardino
+%A Meyer, Clemens
+%A De Fauw, Jeffrey
+%A Ledsam, Joseph R
+%A Maier-Hein, Klaus H
+%A Eslami, SM
+%A Rezende, Danilo Jimenez
+%A Ronneberger, Olaf
+%J arXiv preprint arXiv:1806.05034
+%D 2018
+
+%0 Journal Article
+%T Sequential rerandomization
+%A Zhou, Quan
+%A Ernst, Philip
+%A Morgan, Kari Lock
+%A Rubin, Donald B
+%A Zhang, Anru
+%J arXiv preprint arXiv:1706.04182
+%D 2017
+
+%0 Journal Article
+%T Hybrid intelligent approach for diagnosis of the lung nodule from CT images using spatial kernelized fuzzy c-means and ensemble learning
+%A Farahani, Farzad Vasheghani
+%A Ahmadi, Abbas
+%A Zarandi, Mohammad Hossein Fazel
+%J Mathematics and Computers in Simulation
+%V 149
+%P 48-68
+%@ 0378-4754
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Machine Learning-Based Radiomics for Molecular Subtyping of Gliomas
+%A Lu, Chia-Feng
+%A Hsu, Fei-Ting
+%A Hsieh, Kevin Li-Chun
+%A Kao, Yu-Chieh Jill
+%A Cheng, Sho-Jen
+%A Hsu, Justin Bo-Kai
+%A Tsai, Ping-Huei
+%A Chen, Ray-Jade
+%A Huang, Chao-Ching
+%A Yen, Yun
+%J Clinical Cancer Research
+%P clincanres. 3445.2017
+%@ 1078-0432
+%D 2018
+%I AACR
+
+%0 Conference Proceedings
+%T Lung nodule detection from CT scans using 3D convolutional neural networks without candidate selection
+%A Jenuwine, Natalia M
+%A Mahesh, Sunny N
+%A Furst, Jacob D
+%A Raicu, Daniela S
+%B Medical Imaging 2018: Computer-Aided Diagnosis
+%V 10575
+%P 1057539
+%D 2018
+%I International Society for Optics and Photonics
+
+%0 Conference Proceedings
+%T Assessing the prognostic impact of 3D CT image tumour rind texture features on lung cancer survival modelling
+%A Vial, Alanna
+%A Stirling, David
+%A Field, Matthew
+%A Ros, Montserrat
+%A Ritz, Christian
+%A Carolan, Martin
+%A Holloway, Lois
+%A Miller, Alexis A
+%B Signal and Information Processing (GlobalSIP), 2017 IEEE Global Conference on
+%P 735-739
+%@ 1509059903
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T The ARTFIBio web platform
+%A Mouriño, J Carlos
+%A Gómez, Andrés
+%A Sánchez, Mariano
+%A López-Medina, A
+%J International Journal of Image Mining
+%V 1
+%N 2-3
+%P 159-174
+%@ 2055-6039
+%D 2015
+%I Inderscience Publishers (IEL)
+
+%0 Journal Article
+%T An Interpretable Deep Hierarchical Semantic Convolutional Neural Network for Lung Nodule Malignancy Classification
+%A Shen, Shiwen
+%A Han, Simon X
+%A Aberle, Denise R
+%A Bui, Alex AT
+%A Hsu, Willliam
+%J arXiv preprint arXiv:1806.00712
+%D 2018
+
+%0 Journal Article
+%T Joint solution for PET image segmentation, denoising, and partial volume correction
+%A Xu, Ziyue
+%A Gao, Mingchen
+%A Papadakis, Georgios Z
+%A Luna, Brian
+%A Jain, Sanjay
+%A Mollura, Daniel J
+%A Bagci, Ulas
+%J Medical image analysis
+%V 46
+%P 229-243
+%@ 1361-8415
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Data-Driven Methods for Advancing Precision Oncology
+%A Nedungadi, Prema
+%A Iyer, Akshay
+%A Gutjahr, Georg
+%A Bhaskar, Jasmine
+%A Pillai, Asha B
+%J Current Pharmacology Reports
+%V 4
+%N 2
+%P 145-156
+%@ 2198-641X
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T Reengineering Workflow for Curation of DICOM Datasets
+%A Bennett, William
+%A Smith, Kirk
+%A Jarosz, Quasar
+%A Nolan, Tracy
+%A Bosch, Walter
+%J Journal of Digital Imaging
+%P 1-9
+%@ 0897-1889
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T To share or not to share? Expected pros and cons of data sharing in radiological research
+%A Sardanelli, Francesco
+%A Alì, Marco
+%A Hunink, Myriam G
+%A Houssami, Nehmat
+%A Sconfienza, Luca M
+%A Di Leo, Giovanni
+%J European radiology
+%P 1-8
+%@ 0938-7994
+%D 2018
+%I Springer
+
+%0 Conference Proceedings
+%T Learning to Compose Domain-Specific Transformations for Data Augmentation
+%A Ratner, Alexander J
+%A Ehrenberg, Henry
+%A Hussain, Zeshan
+%A Dunnmon, Jared
+%A Ré, Christopher
+%B Advances in Neural Information Processing Systems
+%P 3239-3249
+%D 2017
+
+%0 Journal Article
+%T MRI to MGMT: Predicting Drug Efficacy for Glioblastoma Patients
+%A Han, Lichy
+%A Kamdar, Maulik
+
+%0 Journal Article
+%T MRI prostate cancer ra-diomics
+%A Chatzoudis, Pavlos
+
+%0 Journal Article
+%T Radiogenomics in renal cell carcinoma
+%A Alessandrino, Francesco
+%A Shinagare, Atul B
+%A Bossé, Dominick
+%A Choueiri, Toni K
+%A Krajewski, Katherine M
+%J Abdominal Radiology
+%P 1-9
+%@ 2366-004X
+%D 2018
+%I Springer
+
+%0 Journal Article
+%T Radiomics Strategy for Molecular Subtype Stratification of Lower‐Grade Glioma: Detecting IDH and TP53 Mutations Based on Multimodal MRI
+%A Zhang, Xi
+%A Tian, Qiang
+%A Wang, Liang
+%A Liu, Yang
+%A Li, Baojuan
+%A Liang, Zhengrong
+%A Gao, Peng
+%A Zheng, Kaizhong
+%A Zhao, Bofeng
+%A Lu, Hongbing
+%J Journal of Magnetic Resonance Imaging
+%@ 1053-1807
+%D 2018
+%I Wiley Online Library
+
+%0 Journal Article
+%T Increased robustness in reference region model analysis of DCE MRI using two‐step constrained approaches
+%A Ahmed, Zaki
+%A Levesque, Ives R
+%J Magnetic resonance in medicine
+%V 78
+%N 4
+%P 1547-1557
+%@ 1522-2594
+%D 2017
+%I Wiley Online Library
+
+%0 Journal Article
+%T CT reconstruction with priori MRI images through multi-group datasets expansion
+%A Wang, Qihui
+%A Xi, Yan
+%A Chen, Yi
+%A Zhang, Weikang
+%A Zhao, Jun
+%J Journal of Shanghai Jiaotong University (Science)
+%V 22
+%N 6
+%P 756-762
+%@ 1007-1172
+%D 2017
+%I Springer
+
+%0 Conference Proceedings
+%T Multi-level 3D Wavelet Analysis: Application to Brain Tumor Classification
+%A Kharbanda, Dolly
+%A Verma, GK
+%B Micro-Electronics and Telecommunication Engineering (ICMETE), 2016 International Conference on
+%P 379-384
+%@ 1509034110
+%D 2016
+%I IEEE
+
+%0 Conference Proceedings
+%T An Automatic Computerized Model for Cancerous Lung Nodule Detection from Computed Tomography Images with Reduced False Positives
+%A Krishnamurthy, Senthilkumar
+%A Narasimhan, Ganesh
+%A Rengasamy, Umamaheswari
+%B International Conference on Recent Trends in Image Processing and Pattern Recognition
+%P 343-355
+%D 2016
+%I Springer
+
+%0 Journal Article
+%T Combo Loss: Handling Input and Output Imbalance in Multi-Organ Segmentation
+%A Taghanaki, Saeid Asgari
+%A Zheng, Yefeng
+%A Zhou, S Kevin
+%A Georgescu, Bogdan
+%A Sharma, Puneet
+%A Xu, Daguang
+%A Comaniciu, Dorin
+%A Hamarneh, Ghassan
+%J arXiv preprint arXiv:1805.02798
+%D 2018
+
+%0 Journal Article
+%T Most-enhancing tumor volume by MRI radiomics predicts recurrence-free survival "early on" in neoadjuvant treatment of breast cancer
+%A Drukker, Karen
+%A Li, Hui
+%A Antropova, Natalia
+%A Edwards, Alexandra
+%A Papaioannou, John
+%A Giger, Maryellen L
+%J Cancer Imaging
+%V 18
+%N 1
+%P 12
+%@ 1470-7330
+%D 2018
+%I BioMed Central
+
+%0 Journal Article
+%T Automatic intensity windowing of mammographic images based on a perceptual metric
+%A Albiol, Alberto
+%A Corbi, Alberto
+%A Albiol, Francisco
+%J Medical physics
+%V 44
+%N 4
+%P 1369-1378
+%@ 2473-4209
+%D 2017
+%I Wiley Online Library
+
+%0 Conference Proceedings
+%T VRvisu: A Tool for Virtual Reality Based Visualization of Medical Data
+%A Reddivari, Sandeep
+%A Smith, Jason
+%A Pabalate, Jonathan
+%B Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2017 IEEE/ACM International Conference on
+%P 280-281
+%@ 1509047220
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Automatic Measurement of the Total Visceral Adipose Tissue From Computed Tomography Images by Using a Multi-Atlas Segmentation Method
+%A Decazes, Pierre
+%A Rouquette, Alexandra
+%A Chetrit, Annaëlle
+%A Vera, Pierre
+%A Gardin, Isabelle
+%J Journal of computer assisted tomography
+%V 42
+%N 1
+%P 139-145
+%@ 0363-8715
+%D 2018
+%I LWW
+
+%0 Journal Article
+%T Precision Medicine and Radiogenomics in Breast Cancer: New Approaches toward Diagnosis and Treatment
+%A Pinker, Katja
+%A Chin, Joanne
+%A Melsaether, Amy N
+%A Morris, Elizabeth A
+%A Moy, Linda
+%J Radiology
+%V 287
+%N 3
+%P 732-747
+%@ 0033-8419
+%D 2018
+%I Radiological Society of North America
+
+%0 Conference Proceedings
+%T Can Planning Images Reduce Scatter in Follow-Up Cone-Beam CT?
+%A Mason, Jonathan H
+%A Perelli, Alessandro
+%A Nailon, William H
+%A Davies, Mike E
+%B Annual Conference on Medical Image Understanding and Analysis
+%P 629-640
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Machine learning: a useful radiological adjunct in determination of a newly diagnosed glioma's grade and IDH status
+%A De Looze, Céline
+%A Beausang, Alan
+%A Cryan, Jane
+%A Loftus, Teresa
+%A Buckley, Patrick G
+%A Farrell, Michael
+%A Looby, Seamus
+%A Reilly, Richard
+%A Brett, Francesca
+%A Kearney, Hugh
+%J Journal of neuro-oncology
+%P 1-9
+%@ 0167-594X
+%D 2018
+%I Springer
+
+%0 Conference Proceedings
+%T Immersive isosurface visualisation for engineering datasets
+%A Satriadi, Kadek Ananta
+%A Stephens, Kingsley
+%A Atkinson, Callum
+%A Cordeil, Maxime
+%A Czauderna, Tobias
+%B Big Data Visual Analytics (BDVA), 2017 International Symposium on
+%P 1-8
+%@ 1538607816
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Multisite Concordance of DSC-MRI Analysis for Brain Tumors: Results of a National Cancer Institute Quantitative Imaging Network Collaborative Project
+%A Schmainda, KM
+%A Prah, MA
+%A Rand, SD
+%A Liu, Y
+%A Logan, B
+%A Muzi, M
+%A Rane, SD
+%A Da, X
+%A Yen, Y-F
+%A Kalpathy-Cramer, J
+%J American Journal of Neuroradiology
+%V 39
+%N 6
+%P 1008-1016
+%@ 0195-6108
+%D 2018
+%I Am Soc Neuroradiology
+
+%0 Conference Proceedings
+%T Semi-automatic 3D lung nodule segmentation in CT using dynamic programming
+%A Sargent, Dustin
+%A Park, Sun Young
+%B Medical Imaging 2017: Image Processing
+%V 10133
+%P 101332R
+%D 2017
+%I International Society for Optics and Photonics
+
+%0 Journal Article
+%T Super-Resolution Imaging of Mammograms Based on the Super-Resolution Convolutional Neural Network
+%A Umehara, Kensuke
+%A Ota, Junko
+%A Ishida, Takayuki
+%J Open Journal of Medical Imaging
+%V 7
+%N 04
+%P 180
+%D 2017
+%I Scientific Research Publishing
+
+%0 Journal Article
+%T Methylation of L1RE1, RARB, and RASSF1 function as possible biomarkers for the differential diagnosis of lung cancer
+%A Walter, RFH
+%A Rozynek, P
+%A Casjens, S
+%A Werner, R
+%A Mairinger, FD
+%A Speel, EJM
+%A Zur Hausen, A
+%A Meier, S
+%A Wohlschlaeger, J
+%A Theegarten, D
+%J PloS one
+%V 13
+%N 5
+%P e0195716
+%@ 1932-6203
+%D 2018
+%I Public Library of Science
+
+%0 Conference Proceedings
+%T Information theory optimization based feature selection in breast mammography lesion classification
+%A Uthoff, Johanna
+%A Sieren, Jessica C
+%B Biomedical Imaging (ISBI 2018), 2018 IEEE 15th International Symposium on
+%P 817-821
+%@ 1538636360
+%D 2018
+%I IEEE
+
+%0 Journal Article
+%T Imaging biobanks in oncology: European perspective
+%A Neri, Emanuele
+%A Regge, Daniele
+%J Future Oncology
+%V 13
+%N 5
+%P 433-441
+%@ 1479-6694
+%D 2017
+%I Future Medicine
+
+%0 Journal Article
+%T Imaging-Genomics Study Of Head-Neck Squamous Cell Carcinoma: Associations Between Radiomic Phenotypes And Genomic Mechanisms Via Integration Of TCGA And TCIA
+%A Zhu, Yitan
+%A Mohamed, Abdallah SR
+%A Lai, Stephen Y
+%A Yang, Shengjie
+%A Kanwar, Aasheesh
+%A Wei, Lin
+%A Kamal, Mona
+%A Sengupta, Subhajit
+%A Elhalawani, Hesham
+%A Skinner, Heath
+%J bioRxiv
+%P 214312
+%D 2017
+%I Cold Spring Harbor Laboratory
+
+%0 Journal Article
+%T Prostate cancer Radiomics using multiparametric MR imaging
+%A Barucci, Andrea
+%A Baccini, Michela
+%A Carpi, Roberto
+%A Giannetti, Ambra
+%A Olmastroni, Maristella
+%A Pini, Roberto
+%A Pujol, Sonia
+%A Ratto, Fulvio
+%A Zatelli, Giovanna
+%A Esposito, Marco
+%J Technical, Scientific and Research Reports (TSRR)
+%V 9
+%@ 2035-5831
+%D 2017
+%I IFAC-CNR
+
+%0 Journal Article
+%T Intelligent Analysis of Cerebral Magnetic Resonance Images: Extracting Relevant Information from Small Datasets
+%A Benítez Sánchez del Campo, Ania
+%D 2017
+
+%0 Journal Article
+%T Deep Learning for Image-based Cancer Detection and Diagnosis—A Survey
+%A Hu, Zilong
+%A Tang, Jinshan
+%A Wang, Ziming
+%A Zhang, Kai
+%A Zhang, Lin
+%A Sun, Qingling
+%J Pattern Recognition
+%@ 0031-3203
+%D 2018
+%I Elsevier
+
+%0 Journal Article
+%T Volume fractions of DCE-MRI parameter as early predictor of histologic response in soft tissue sarcoma: A feasibility study
+%A Xia, Wei
+%A Yan, Zhuangzhi
+%A Gao, Xin
+%J European journal of radiology
+%V 95
+%P 228-235
+%@ 0720-048X
+%D 2017
+%I Elsevier
+
+%0 Conference Proceedings
+%T Towards image-guided pancreas and biliary endoscopy: Automatic multi-organ segmentation on abdominal CT with dense dilated networks
+%A Gibson, Eli
+%A Giganti, Francesco
+%A Hu, Yipeng
+%A Bonmati, Ester
+%A Bandula, Steve
+%A Gurusamy, Kurinchi
+%A Davidson, Brian R
+%A Pereira, Stephen P
+%A Clarkson, Matthew J
+%A Barratt, Dean C
+%B International Conference on Medical Image Computing and Computer-Assisted Intervention
+%P 728-736
+%D 2017
+%I Springer
+
+%0 Journal Article
+%T Estimation for finite mixture of simplex models: applications to biomedical data
+%A Quintero, Freddy Omar López
+%A Contreras-Reyes, Javier E
+%J Statistical Modelling
+%P 1471082X17722607
+%@ 1471-082X
+%D 2017
+%I SAGE Publications Sage India: New Delhi, India
+
+%0 Journal Article
+%T A versatile method for bladder segmentation in computed tomography two-dimensional images under adverse conditions
+%A Pinto, Joao Ribeiro
+%A Tavares, Joao Manuel RS
+%J Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine
+%V 231
+%N 9
+%P 871-880
+%@ 0954-4119
+%D 2017
+%I SAGE Publications Sage UK: London, England
+
+%0 Conference Proceedings
+%T Lung cancer detection using digital image processing and artificial neural networks
+%A Kalaivani, S
+%A Chatterjee, Pramit
+%A Juyal, Shikhar
+%A Gupta, Rishi
+%B Electronics, Communication and Aerospace Technology (ICECA), 2017 International conference of
+%V 2
+%P 100-103
+%@ 1509056866
+%D 2017
+%I IEEE
+
+%0 Conference Proceedings
+%T Synergetic neuro-fuzzy feature selection and classification of brain tumors
+%A Banerjee, Subhashis
+%A Mitra, Sushmita
+%A Shankar, B Uma
+%B Fuzzy Systems (FUZZ-IEEE), 2017 IEEE International Conference on
+%P 1-6
+%@ 1509060340
+%D 2017
+%I IEEE
+
+%0 Journal Article
+%T Interactive 3D Virtual Colonoscopic Navigation For Polyp Detection From CT Images
+%A Joseph, Jinu
+%A Kumar, Rajesh
+%A Chandran, Pournami S
+%A Vidya, PV
+%J Procedia Computer Science
+%V 115
+%P 407-414
+%@ 1877-0509
+%D 2017
+%I Elsevier
+
+%0 Conference Proceedings
+%T Lung Nodule Detection and Segmentation Using a Patch-Based Multi-Atlas Method
+%A Alam, Mustafa
+%A Sankaranarayanan, Ganesh
+%A Devarajan, Venkat
+%B Computational Science and Computational Intelligence (CSCI), 2016 International Conference on
+%P 23-28
+%@ 150905510X
+%D 2016
+%I IEEE
+
+%0 Journal Article
+%T FastDRaW–Fast Delineation by Random Walker
+%A Gueziri, Houssem-Eddine
+%A Lakhdar, Lina
+%A McGuffin, Michael J
+%A Laporte, Catherine
+%J Image
+%V 100
+%N 200x200
+%P 300x300
+
+%0 Journal Article
+%T Towards CT-quality Ultrasound Imaging using Deep Learning
+%A Vedula, Sanketh
+%A Senouf, Ortal
+%A Bronstein, Alex M
+%A Michailovich, Oleg V
+%A Zibulevsky, Michael
+%J arXiv preprint arXiv:1710.06304
+%D 2017
+
+%0 Journal Article
+%T UMA PROPOSTA PARA UTILIZAÇÃO DE WORKFLOWS CIENTÍFICOS PARA A DEFINIÇÃO DE PIPELINES PARA A RECUPERAÇÃO DE IMAGENS MÉDICAS POR CONTEÚDO EM UM AMBIENTE DISTRIBUÍDO
+%A OLIVEIRA, LUIS FERNANDO MILANO
+
+%0 Journal Article
+%T Radiomics 方法研究应用进展
+%A 孙航
+%A 李宏
+%A 张亭亭
+%A 滕月阳
+%A 齐守良
+%A 钱唯
+%J 肿瘤
+%V 37
+%N 10
+%P 1092-1099
+%D 2017
+
+%0 Journal Article
+%T Selección de un algoritmo para la clasificación de Nódulos Pulmonares Solitarios
+%A Castro, Arelys Rivero
+%A Correa, Luis Manuel Cruz
+%A Lezcano, Jeffrey Artiles
+%J Revista Cubana de Informá tica Mé dica
+%V 16
+%N 2
+%@ 1684-1859
+%D 2016
+
+%0 Journal Article
+%T Сравнительный анализ методов классификации легочных узлов по изображениям компьютерной томографии
+%A Глазнев, МЮ
+%A Гусарова, НФ
+%A Коцюба, ИЮ
+%A Рябчиков, ИА
+%A Сергеева, МВ
+%J Оптический журнал
+%V 84
+%N 1
+%P 58-68
+%@ 1023-5086
+%D 2017
+%I федеральное государственное автономное образовательное учреждение высшего образования" Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики"
+
+%0 Journal Article
+%T Caffe によるディープラーニング
+%A 橘理恵
+%J Medical Imaging Technology
+%V 36
+%N 2
+%P 52-57
+%@ 0288-450X
+%D 2018
+%I 日本医用画像工学会
+
+%0 Journal Article
+%T 医用画像解析・手術支援システムにおけるレジストレーション
+%A 大竹義人
+%J Medical Imaging Technology
+%V 35
+%N 1
+%P 11-17
+%@ 0288-450X
+%D 2017
+%I 日本医用画像工学会
+
+%0 Journal Article
+%T Aplicación de las redes neuronales artificiales al diagnóstico asistido por ordenador. Diseño de sistemas y utilización como herramienta formativa
+%A Hernández Rodríguez, Jorge
+%D 2016
+
+%0 Journal Article
+%T Modello di forma tumorale: strumento computazionale di supporto ai trattamenti di radioterapia personalizzati del tumore al polmone
+%A LORETTI RESTELLI ZANOTTI, LUCA
+%A FERRI, FRANCESCO
+%D 2017
+%I Italy
+
+%0 Journal Article
+%T Modelo de aprendizado de máquina com fronteira de decisão fechada para identificação de carcinoma hepatocelular inicial
+%A Thomaz, Ricardo de Lima
+%D 2018
+%I Universidade Federal de Uberlândia
+
+%0 Journal Article
+%T Selección de un algoritmo para la clasificación de Nódulos Pulmonares Solitarios
+%A Rivero Castro, Arelys
+%A Cruz Correa, Luis Manuel
+%A Artiles Lezcano, Jeffrey
+%J Revista Cubana de Informática Médica
+%V 8
+%N 2
+%P 166-177
+%@ 1684-1859
+%D 2016
+%I Universidad de Ciencias Médicas de La Habana
+
+%0 Journal Article
+%T بررسی اثر جرمی و ترم واکنش در پیش بینی رشد تومور مغزی به کمک مدل ریاضی مبتنی بر تصاویر ام آر
+%A مقدادی
+%A نیرومند اسکویی
+%A هانیه
+%A سلطانی
+%J مهندسی مکانیک مدرس
+%V 18
+%N 4
+%P 71-78
+%@ 1027-5940
+%D 2018
+%I دانشگاه تربیت مدرس
+
+%0 Journal Article
+%T Σύστημα Υποστήριξης Κλινικών Αποφάσεων Για Τη Διάγνωση Καρκίνου Του Πνέυμονα Μέσω Ανάλυσης Εικόνων Αξονικής Τομογραφίας Θώρακα
+%A Ανδρούτσου, Θέλμα
+%D 2017
+
+%0 Journal Article
+%T Pemrosesan Awal Pendeteksian Dlioma Melalui Citra Manetic Resonance Imaging (MRI) Menggunakan K-Means Clustering
+%A Rahmat, Romi Fadillah
+%A Muchtar, Muhammad Anggia
+%D 2017
+
+%0 Journal Article
+%T 凌 NUMÉRICOS EN INGENIERÍA
+%A GONZÁLEZ, Y
+%A DÁVILA, E
+%A DUARTE, V
+
+%0 Journal Article
+%T 乳房動態磁振造影之生物標記分析
+%A Chen, Hong-Hao
+%J 臺灣大學資訊工程學研究所學位論文
+%P 1-85
+%D 2017
+%I 臺灣大學
+
+%0 Journal Article
+%T Imagerie médicale computationnelle (radiomique) et potentiel en immuno-oncologie
+%A Sun, Roger
+%A Limkin, EJ
+%A Dercle, Laurent
+%A Reuzé, Sylvain
+%A Zacharaki, EI
+%A Chargari, Cyrus
+%A Schernberg, Antoine
+%A Dirand, Anne-Sophie
+%A Alexis, Anthony
+%A Paragios, Nikos
+%J Cancer/Radiothérapie
+%V 21
+%N 6-7
+%P 648-654
+%@ 1278-3218
+%D 2017
+%I Elsevier
+
