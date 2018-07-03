@@ -23,4 +23,5 @@ table = plt.table(cellText=data,rowLabels=rows,colLabels=years,loc="bottom")
 
 plt.tick_params(axis="x",which="both",bottom=False,top=False,labelbottom=False)
 plt.ylabel("Peer-Reviewed Publications")
-plt.show()
+plt.legend()
+plt.savefig("TCIAGraph.png",bbox_inches="tight")
